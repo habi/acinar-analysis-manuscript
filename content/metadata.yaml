@@ -1,26 +1,52 @@
 ---
-title: "Manuscript Title"
+title: "Pulmonary acini exhibit complex changes during postnatal rat lung development"
 keywords:
-  - markdown
-  - publishing
-  - manubot
+  - lung
+  - acini
+  - tomography
 lang: en-US
 authors:
-  - github: johndoe
-    name: John Doe
-    initials: JD
-    orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: johndoe
-    email: john.doe@something.com
+  - github: habi
+    name: David Haberthür
+    initials: DH
+    orcid: 0000-0003-3388-9187
+    twitter: habi
+    email: haberthuer@ana.unibe.ch
     affiliations:
-      - Department of Something, University of Whatever
+      - Institute of Anatomy, University of Bern, Switzerland
     funders:
-      - Grant XXXXXXXX
-  - github: janeroe
-    name: Jane Roe
-    initials: JR
-    orcid: XXXX-XXXX-XXXX-XXXX
-    email: jane.roe@whatever.edu
+      - Swiss National Science Foundation (Schweizerische Nationalfonds) http://p3.snf.ch/project-153468
+      - Swiss National Science Foundation (Schweizerische Nationalfonds) http://p3.snf.ch/project-175953
+  - name: Eveline Yao
+    initials: EY
     affiliations:
-      - Department of Something, University of Whatever
-      - Department of Whatever, University of Something
+      - Institute of Anatomy, University of Bern, Switzerland
+  - name: Sébastien F. Barré
+    initials: SB
+    affiliations:
+      - Institute of Anatomy, University of Bern, Switzerland
+    funders:
+      - Swiss National Science Foundation (Schweizerische Nationalfonds) 153468
+      - Swiss National Science Foundation (Schweizerische Nationalfonds) 175953
+  - name: Tiziana P. Cremona
+    initials: TC
+    orcid: 0000-0003-0061-9578
+    affiliations:
+      - Institute of Anatomy, University of Bern, Switzerland
+    funders:
+      - Swiss National Science Foundation (Schweizerische Nationalfonds) 153468
+      - Swiss National Science Foundation (Schweizerische Nationalfonds) 175953
+  - name: Stefan A. Tschanz
+    initials: ST
+    orcid: 0000-0003-3880-4437
+    affiliations:
+      - Institute of Anatomy, University of Bern, Switzerland
+  - name: Johannes C. Schittny
+    initials: JCS
+    orcid: 0000-0003-4025-3961
+    email: schittny@ana.unibe.ch
+    affiliations:
+      - Institute of Anatomy, University of Bern, Switzerland
+    funders:
+      - Swiss National Science Foundation (Schweizerische Nationalfonds) 153468
+      - Swiss National Science Foundation (Schweizerische Nationalfonds) 175953
