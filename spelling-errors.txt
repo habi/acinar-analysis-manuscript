@@ -1,4 +1,4 @@
-acinar
+Acinar
 acini
 acinus
 alveolarization
@@ -61,7 +61,7 @@ Marone
 Massless
 MATLAB
 medetomidine
-MEVIS
+MeVis
 MeVisLab
 microtomographic
 midazolam
@@ -93,7 +93,7 @@ situ
 socalled
 Sprague
 STEPanizer
-stereological
+Stereological
 stereologically
 stereology
 stereologybased
