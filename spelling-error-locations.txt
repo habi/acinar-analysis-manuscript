@@ -1,3 +1,5 @@
+content/00.front-matter.md:10:bioRxiv
+content/00.front-matter.md:10:preprint
 content/01.abstract.md:3:acini
 content/01.abstract.md:4:acini
 content/01.abstract.md:5:beamline
@@ -470,20 +472,3 @@ content/08.contributions.md:6:EY
 content/08.contributions.md:6:stereologically
 content/08.contributions.md:7:JS
 content/08.contributions.md:9:JS
-content/10.supplementaryfigures.md:3:acinar
-content/10.supplementaryfigures.md:4:acinar
-content/10.supplementaryfigures.md:4:acini
-content/10.supplementaryfigures.md:4:Barré
-content/10.supplementaryfigures.md:4:parenchymal
-content/10.supplementaryfigures.md:4:Tschanz
-content/10.supplementaryfigures.md:4:Tschanz
-content/10.supplementaryfigures.md:5:acini
-content/10.supplementaryfigures.md:5:Cavalieri
-content/10.supplementaryfigures.md:6:acini
-content/10.supplementaryfigures.md:7:acini
-content/10.supplementaryfigures.md:7:Barré
-content/10.supplementaryfigures.md:7:stereological
-content/10.supplementaryfigures.md:7:Tschanz
-content/10.supplementaryfigures.md:9:acini
-content/10.supplementaryfigures.md:10:acini
-content/10.supplementaryfigures.md:10:parenchymal
