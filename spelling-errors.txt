@@ -1,7 +1,7 @@
 acinar
 acini
 acinus
-alveolarization
+Alveolarization
 alveoli
 alveolus
 Amhrein
@@ -82,7 +82,7 @@ Osmanagic
 Ouanella
 parenchyma
 parenchymal
-PCO
+pco
 Pinzer
 placentalian
 preprint

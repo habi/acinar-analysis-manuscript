@@ -8,8 +8,8 @@ author-meta:
 - Johannes C. Schittny
 bibliography:
 - content/manual-references.json
-date-meta: '2020-12-01'
-header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Pulmonary acini exhibit complex changes during postnatal rat lung development\" />\n<meta name=\"citation_title\" content=\"Pulmonary acini exhibit complex changes during postnatal rat lung development\" />\n<meta property=\"og:title\" content=\"Pulmonary acini exhibit complex changes during postnatal rat lung development\" />\n<meta property=\"twitter:title\" content=\"Pulmonary acini exhibit complex changes during postnatal rat lung development\" />\n<meta name=\"dc.date\" content=\"2020-12-01\" />\n<meta name=\"citation_publication_date\" content=\"2020-12-01\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"David Haberth\xFCr\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Switzerland\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-3388-9187\" />\n<meta name=\"twitter:creator\" content=\"@habi\" />\n<meta name=\"citation_author\" content=\"Eveline Yao\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Switzerland\" />\n<meta name=\"citation_author\" content=\"S\xE9bastien F. Barr\xE9\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Switzerland\" />\n<meta name=\"citation_author\" content=\"Tiziana P. Cremona\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Switzerland\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-0061-9578\" />\n<meta name=\"citation_author\" content=\"Stefan A. Tschanz\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Switzerland\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-3880-4437\" />\n<meta name=\"citation_author\" content=\"Johannes C. Schittny\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Switzerland\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-4025-3961\" />\n<link rel=\"canonical\" href=\"https://habi.github.io/acinar-analysis-manuscript/\" />\n<meta property=\"og:url\" content=\"https://habi.github.io/acinar-analysis-manuscript/\" />\n<meta property=\"twitter:url\" content=\"https://habi.github.io/acinar-analysis-manuscript/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://habi.github.io/acinar-analysis-manuscript/\" />\n<meta name=\"citation_pdf_url\" content=\"https://habi.github.io/acinar-analysis-manuscript/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://habi.github.io/acinar-analysis-manuscript/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://habi.github.io/acinar-analysis-manuscript/v/2ac88e14d5546339beb6f08924b06e6a5002df13/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://habi.github.io/acinar-analysis-manuscript/v/2ac88e14d5546339beb6f08924b06e6a5002df13/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://habi.github.io/acinar-analysis-manuscript/v/2ac88e14d5546339beb6f08924b06e6a5002df13/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
+date-meta: '2020-12-02'
+header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Pulmonary acini exhibit complex changes during postnatal rat lung development\" />\n<meta name=\"citation_title\" content=\"Pulmonary acini exhibit complex changes during postnatal rat lung development\" />\n<meta property=\"og:title\" content=\"Pulmonary acini exhibit complex changes during postnatal rat lung development\" />\n<meta property=\"twitter:title\" content=\"Pulmonary acini exhibit complex changes during postnatal rat lung development\" />\n<meta name=\"dc.date\" content=\"2020-12-02\" />\n<meta name=\"citation_publication_date\" content=\"2020-12-02\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"David Haberth\xFCr\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Switzerland\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-3388-9187\" />\n<meta name=\"twitter:creator\" content=\"@habi\" />\n<meta name=\"citation_author\" content=\"Eveline Yao\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Switzerland\" />\n<meta name=\"citation_author\" content=\"S\xE9bastien F. Barr\xE9\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Switzerland\" />\n<meta name=\"citation_author\" content=\"Tiziana P. Cremona\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Switzerland\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-0061-9578\" />\n<meta name=\"citation_author\" content=\"Stefan A. Tschanz\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Switzerland\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-3880-4437\" />\n<meta name=\"citation_author\" content=\"Johannes C. Schittny\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Switzerland\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-4025-3961\" />\n<link rel=\"canonical\" href=\"https://habi.github.io/acinar-analysis-manuscript/\" />\n<meta property=\"og:url\" content=\"https://habi.github.io/acinar-analysis-manuscript/\" />\n<meta property=\"twitter:url\" content=\"https://habi.github.io/acinar-analysis-manuscript/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://habi.github.io/acinar-analysis-manuscript/\" />\n<meta name=\"citation_pdf_url\" content=\"https://habi.github.io/acinar-analysis-manuscript/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://habi.github.io/acinar-analysis-manuscript/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://habi.github.io/acinar-analysis-manuscript/v/29105920c8559f91845fb3f34fc5a45ce1338877/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://habi.github.io/acinar-analysis-manuscript/v/29105920c8559f91845fb3f34fc5a45ce1338877/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://habi.github.io/acinar-analysis-manuscript/v/29105920c8559f91845fb3f34fc5a45ce1338877/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
 keywords:
 - lung
 - acini
@@ -30,10 +30,10 @@ _A preprint of this manuscript is available on *bioRxiv* at <https://doi.org/10.
 
 <small><em>
 This manuscript
-([permalink](https://habi.github.io/acinar-analysis-manuscript/v/2ac88e14d5546339beb6f08924b06e6a5002df13/))
+([permalink](https://habi.github.io/acinar-analysis-manuscript/v/29105920c8559f91845fb3f34fc5a45ce1338877/))
 was automatically generated
-from [habi/acinar-analysis-manuscript@2ac88e1](https://github.com/habi/acinar-analysis-manuscript/tree/2ac88e14d5546339beb6f08924b06e6a5002df13)
-on December 1, 2020.
+from [habi/acinar-analysis-manuscript@2910592](https://github.com/habi/acinar-analysis-manuscript/tree/29105920c8559f91845fb3f34fc5a45ce1338877)
+on December 2, 2020.
 </em></small>
 
 ## Authors
@@ -311,22 +311,22 @@ For the 42 acini at day 21 a volume of 0.10 ± 0.09 mm^3^ and for the 43 acin
 
 The values for the single animals are shown in table @tbl:volumes and displayed in figure @fig:03.
 
-|Animal|Assessed acini|Average [mm^3]|STD [mm^3]|Minimum [mm^3]|Maximum [mm^3]|
-|------|--------------|--------------|----------|--------------|--------------|
-|04A   |51            |0.009         |0.008     |0.002         |0.035         |
-|04B   |23            |0.058         |0.053     |0.008         |0.194         |
-|04C   |51            |0.044         |0.044     |0.006         |0.275         |
-|10A   |27            |0.033         |0.026     |0.004         |0.108         |
-|10B   |14            |0.033         |0.030     |0.004         |0.096         |
-|10C   |17            |0.057         |0.084     |0.002         |0.333         |
-|21B   |14            |0.087         |0.086     |0.011         |0.322         |
-|21D   |17            |0.109         |0.112     |0.014         |0.380         |
-|21E   |11            |0.118         |0.072     |0.025         |0.238         |
-|60B   |24            |0.588         |0.223     |0.226         |1.104         |
-|60D   |10            |0.888         |0.350     |0.364         |1.576         |
-|60E   |9             |0.977         |0.526     |0.186         |1.875         |
+|Animal|Assessed acini|Average [mm^3^]|STD [mm^3^]|Minimum [mm^3^]|Maximum [mm^3^]|
+|------|--------------|---------------|-----------|---------------|---------------|
+|04A   |51            |0.009          |0.008      |0.002          |0.035          |
+|04B   |23            |0.058          |0.053      |0.008          |0.194          |
+|04C   |51            |0.044          |0.044      |0.006          |0.275          |
+|10A   |27            |0.033          |0.026      |0.004          |0.108          |
+|10B   |14            |0.033          |0.030      |0.004          |0.096          |
+|10C   |17            |0.057          |0.084      |0.002          |0.333          |
+|21B   |14            |0.087          |0.086      |0.011          |0.322          |
+|21D   |17            |0.109          |0.112      |0.014          |0.380          |
+|21E   |11            |0.118          |0.072      |0.025          |0.238          |
+|60B   |24            |0.588          |0.223      |0.226          |1.104          |
+|60D   |10            |0.888          |0.350      |0.364          |1.576          |
+|60E   |9             |0.977          |0.526      |0.186          |1.875          |
 
-Table: Detailed volume data (in mm^3) for each animal. {#tbl:volumes}
+Table: Detailed volume data (in mm^3^) for each animal. {#tbl:volumes}
 
 The mean volume of the 20 % smallest acini to the 20 % largest acini at day 4 differs by a factor of 27.47 (from 0.0035 μl&ndash;0.095 μl, N=25).
 At day 10, this increase is 15.28 times (from 0.0071 μl&ndash;0.11 μl, N=12).
@@ -355,29 +355,29 @@ At day 60, the distribution is more homogeneous, with the median of the normaliz
 
 ### Alveoli per volume
 
-The mean number of alveoli for the 125 acini at day 4 is 2166 ± 1132 alveoli`\per`{=latex}mm^3^.
-For the 58 acini at day 10 we counted 2831 ± 1189 alveoli`\per`{=latex}mm^3^, for the 42 acini at day 21 2723 ± 771 alveoli`\per`{=latex}mm^3^ and for the 43 acini at day 60 1080 ± 349 alveoli`\per`{=latex}mm^3^.
+The mean number of alveoli for the 125 acini at day 4 is 2166 ± 1132 alveoli mm^-3^.
+For the 58 acini at day 10 we counted 2831 ± 1189 alveoli mm^-3^, for the 42 acini at day 21 2723 ± 771 alveoli mm^-3^ and for the 43 acini at day 60 1080 ± 349 alveoli mm^-3^.
 These numbers were found by dividing the counted entrance rings by the acinus volumes.
 
- The numbers for the single animals are shown in table @tbl:density and displayed in figure @fig:05.
+The numbers for the single animals are shown in table @tbl:density and displayed in figure @fig:05.
 
-|Animal|Assessed acini|Average [mm^-3]|STD [mm^-3]|Minimum [mm^-3]|Maximum [mm^-3]|
-|------|--------------|---------------|-----------|---------------|---------------|
-|04A   |51            |3124           |1152       |1618           |8208           |
-|04B   |23            |1363           |499        |679            |2704           |
-|04C   |51            |1569           |380        |799            |2775           |
-|10A   |27            |2685           |1022       |1246           |5582           |
-|10B   |14            |3091           |1166       |1890           |5422           |
-|10C   |17            |2848           |1462       |1182           |7009           |
-|21B   |14            |2642           |493        |1625           |3344           |
-|21D   |17            |2534           |895        |1111           |4032           |
-|21E   |11            |3119           |775        |1604           |4379           |
-|60B   |24            |1249           |297        |530            |1912           |
-|60D   |10            |838            |271        |476            |1221           |
-|60E   |9             |898            |323        |411            |1463           |
+|Animal|Assessed acini|Average [mm^-3^]|STD [mm^-3^]|Minimum [mm^-3^]|Maximum [mm^-3^]|
+|------|--------------|----------------|------------|----------------|----------------|
+|04A   |51            |3124            |1152        |1618            |8208            |
+|04B   |23            |1363            |499         |679             |2704            |
+|04C   |51            |1569            |380         |799             |2775            |
+|10A   |27            |2685            |1022        |1246            |5582            |
+|10B   |14            |3091            |1166        |1890            |5422            |
+|10C   |17            |2848            |1462        |1182            |7009            |
+|21B   |14            |2642            |493         |1625            |3344            |
+|21D   |17            |2534            |895         |1111            |4032            |
+|21E   |11            |3119            |775         |1604            |4379            |
+|60B   |24            |1249            |297         |530             |1912            |
+|60D   |10            |838             |271         |476             |1221            |
+|60E   |9             |898             |323         |411             |1463            |
 
 
-Table: Details of alveolar density (number per mm<sup>3</sup>) per acinus volume for each animal. {#tbl:density}
+Table: Details of alveolar density (number per mm^3^) per acinus volume for each animal. {#tbl:density}
 
 ![Number of alveoli per acinus volume.
   Left: linear scale, right: logarithmic scale.
