@@ -1,6 +1,6 @@
 acinar
 acini
-acinus
+Acinus
 alveolarization
 alveoli
 alveolus
@@ -10,7 +10,6 @@ BADJ
 Barré
 beamline
 beamtime
-Behnke
 Bernd
 Bettina
 bioRxiv
@@ -18,7 +17,6 @@ biphasic
 Breuyn
 bronchioalveolar
 bronchioles
-Burri
 canalicular
 Cavalieri
 CCD
@@ -46,9 +44,7 @@ glutaraldehyde
 GraphPad
 Haberthür
 habi
-Hasler
 histological
-Hofemeier
 inhomogeneity
 interquartile
 intra
@@ -66,10 +62,10 @@ Kruskal
 libitum
 LuAG
 Marone
-Massless
+massless
 MATLAB
 medetomidine
-MEVIS
+MeVis
 MeVisLab
 microarchitecture
 midazolam
@@ -97,7 +93,6 @@ Schittny
 Schweizerische
 scintillator
 Sébastien
-Semmler
 Šidák
 situ
 Sprague
@@ -109,11 +104,9 @@ subsampled
 subsampling
 superset
 synchrotron
-Sznitman
 tetroxide
 Tiziana
 Tschanz
-Tsuda
 Turnov
 uranyl
 Vasilescu
