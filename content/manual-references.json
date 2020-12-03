@@ -1,22 +1,104 @@
 [
-{
-  "id": "url:https://github.com/manubot/rootstock",
-  "type": "webpage",
-  "URL": "https://github.com/manubot/rootstock",
-  "title": "manubot/rootstock GitHub repository",
-  "container-title": "GitHub",
-  "issued": {
-    "date-parts": [
-      [
-        2019
+  {
+    "id": "pQ6Wbz73",
+    "type": "paper-conference",
+    "title": "Jupyter Notebooks – a publishing format for reproducible computational workflows",
+    "container-title": "Positioning and Power in Academic Publishing: Players, Agents and Agendas",
+    "publisher": "IOS Press",
+    "page": "87-90",
+    "source": "eprints.soton.ac.uk",
+    "event": "20th International Conference on Electronic Publishing (01/01/16)",
+    "abstract": "It is increasingly necessary for researchers in all fields to write computer code, and in order to reproduce research results, it is important that this code is published. We present Jupyter notebooks, a document format for publishing code, results and explanations in a form that is both readable and executable. We discuss various tools and use cases for notebook documents.",
+    "URL": "https://eprints.soton.ac.uk/403913/",
+    "DOI": "10.3233/978-1-61499-649-1-87",
+    "language": "en",
+    "author": [
+      {
+        "family": "Kluyver",
+        "given": "Thomas"
+      },
+      {
+        "family": "Ragan-Kelley",
+        "given": "Benjamin"
+      },
+      {
+        "family": "Pérez",
+        "given": "Fernando"
+      },
+      {
+        "family": "Granger",
+        "given": "Brian"
+      },
+      {
+        "family": "Bussonnier",
+        "given": "Matthias"
+      },
+      {
+        "family": "Frederic",
+        "given": "Jonathan"
+      },
+      {
+        "family": "Kelley",
+        "given": "Kyle"
+      },
+      {
+        "family": "Hamrick",
+        "given": "Jessica"
+      },
+      {
+        "family": "Grout",
+        "given": "Jason"
+      },
+      {
+        "family": "Corlay",
+        "given": "Sylvain"
+      },
+      {
+        "family": "Ivanov",
+        "given": "Paul"
+      },
+      {
+        "family": "Avila",
+        "given": "Damián"
+      },
+      {
+        "family": "Abdalla",
+        "given": "Safia"
+      },
+      {
+        "family": "Willing",
+        "given": "Carol"
+      },
+      {
+        "family": "Jupyter development team",
+        "given": ""
+      }
+    ],
+    "editor": [
+      {
+        "family": "Loizides",
+        "given": "Fernando"
+      },
+      {
+        "family": "Scmidt",
+        "given": "Birgit"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2016"
+        ]
       ]
-    ]
-  },
-  "author": [
-    {
-      "given": "Daniel",
-      "family": "Himmelstein"
+    },
+    "accessed": {
+      "date-parts": [
+        [
+          "2020",
+          10,
+          23
+        ]
+      ]
     }
-  ]
-}
+  }
 ]
