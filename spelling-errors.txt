@@ -1,7 +1,7 @@
 acinar
 acini
-Acinus
-alveolarization
+acinus
+Alveolarization
 alveoli
 alveolus
 Amhrein
@@ -97,7 +97,7 @@ Sébastien
 situ
 Sprague
 STEPanizer
-Stereological
+stereological
 stereologically
 stereology
 subsampled
