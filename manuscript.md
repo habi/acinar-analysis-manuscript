@@ -9,7 +9,7 @@ author-meta:
 bibliography:
 - content/manual-references.json
 date-meta: '2020-12-03'
-header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Pulmonary acini exhibit complex changes during postnatal rat lung development\" />\n<meta name=\"citation_title\" content=\"Pulmonary acini exhibit complex changes during postnatal rat lung development\" />\n<meta property=\"og:title\" content=\"Pulmonary acini exhibit complex changes during postnatal rat lung development\" />\n<meta property=\"twitter:title\" content=\"Pulmonary acini exhibit complex changes during postnatal rat lung development\" />\n<meta name=\"dc.date\" content=\"2020-12-03\" />\n<meta name=\"citation_publication_date\" content=\"2020-12-03\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"David Haberth\xFCr\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Switzerland\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-3388-9187\" />\n<meta name=\"twitter:creator\" content=\"@habi\" />\n<meta name=\"citation_author\" content=\"Eveline Yao\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Switzerland\" />\n<meta name=\"citation_author\" content=\"S\xE9bastien F. Barr\xE9\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Switzerland\" />\n<meta name=\"citation_author\" content=\"Tiziana P. Cremona\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Switzerland\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-0061-9578\" />\n<meta name=\"citation_author\" content=\"Stefan A. Tschanz\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Switzerland\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-3880-4437\" />\n<meta name=\"citation_author\" content=\"Johannes C. Schittny\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Switzerland\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-4025-3961\" />\n<link rel=\"canonical\" href=\"https://habi.github.io/acinar-analysis-manuscript/\" />\n<meta property=\"og:url\" content=\"https://habi.github.io/acinar-analysis-manuscript/\" />\n<meta property=\"twitter:url\" content=\"https://habi.github.io/acinar-analysis-manuscript/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://habi.github.io/acinar-analysis-manuscript/\" />\n<meta name=\"citation_pdf_url\" content=\"https://habi.github.io/acinar-analysis-manuscript/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://habi.github.io/acinar-analysis-manuscript/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://habi.github.io/acinar-analysis-manuscript/v/18de765f31b03a43aaa74c827c7e7e87826bc01f/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://habi.github.io/acinar-analysis-manuscript/v/18de765f31b03a43aaa74c827c7e7e87826bc01f/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://habi.github.io/acinar-analysis-manuscript/v/18de765f31b03a43aaa74c827c7e7e87826bc01f/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
+header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Pulmonary acini exhibit complex changes during postnatal rat lung development\" />\n<meta name=\"citation_title\" content=\"Pulmonary acini exhibit complex changes during postnatal rat lung development\" />\n<meta property=\"og:title\" content=\"Pulmonary acini exhibit complex changes during postnatal rat lung development\" />\n<meta property=\"twitter:title\" content=\"Pulmonary acini exhibit complex changes during postnatal rat lung development\" />\n<meta name=\"dc.date\" content=\"2020-12-03\" />\n<meta name=\"citation_publication_date\" content=\"2020-12-03\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"David Haberth\xFCr\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Switzerland\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-3388-9187\" />\n<meta name=\"twitter:creator\" content=\"@habi\" />\n<meta name=\"citation_author\" content=\"Eveline Yao\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Switzerland\" />\n<meta name=\"citation_author\" content=\"S\xE9bastien F. Barr\xE9\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Switzerland\" />\n<meta name=\"citation_author\" content=\"Tiziana P. Cremona\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Switzerland\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-0061-9578\" />\n<meta name=\"citation_author\" content=\"Stefan A. Tschanz\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Switzerland\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-3880-4437\" />\n<meta name=\"citation_author\" content=\"Johannes C. Schittny\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Switzerland\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-4025-3961\" />\n<link rel=\"canonical\" href=\"https://habi.github.io/acinar-analysis-manuscript/\" />\n<meta property=\"og:url\" content=\"https://habi.github.io/acinar-analysis-manuscript/\" />\n<meta property=\"twitter:url\" content=\"https://habi.github.io/acinar-analysis-manuscript/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://habi.github.io/acinar-analysis-manuscript/\" />\n<meta name=\"citation_pdf_url\" content=\"https://habi.github.io/acinar-analysis-manuscript/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://habi.github.io/acinar-analysis-manuscript/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://habi.github.io/acinar-analysis-manuscript/v/dcc1ad7c344781cac7bba70ff3b994b44f52640a/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://habi.github.io/acinar-analysis-manuscript/v/dcc1ad7c344781cac7bba70ff3b994b44f52640a/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://habi.github.io/acinar-analysis-manuscript/v/dcc1ad7c344781cac7bba70ff3b994b44f52640a/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
 keywords:
 - lung
 - acini
@@ -30,9 +30,9 @@ _A preprint of this manuscript is available on *bioRxiv* at <https://doi.org/10.
 
 <small><em>
 This manuscript
-([permalink](https://habi.github.io/acinar-analysis-manuscript/v/18de765f31b03a43aaa74c827c7e7e87826bc01f/))
+([permalink](https://habi.github.io/acinar-analysis-manuscript/v/dcc1ad7c344781cac7bba70ff3b994b44f52640a/))
 was automatically generated
-from [habi/acinar-analysis-manuscript@18de765](https://github.com/habi/acinar-analysis-manuscript/tree/18de765f31b03a43aaa74c827c7e7e87826bc01f)
+from [habi/acinar-analysis-manuscript@dcc1ad7](https://github.com/habi/acinar-analysis-manuscript/tree/dcc1ad7c344781cac7bba70ff3b994b44f52640a)
 on December 3, 2020.
 </em></small>
 
@@ -49,7 +49,7 @@ on December 3, 2020.
     [habi](https://twitter.com/habi)<br>
   <small>
      Institute of Anatomy, University of Bern, Switzerland
-     · Funded by Swiss National Science Foundation (Schweizerische Nationalfonds) http://p3.snf.ch/project-153468; Swiss National Science Foundation (Schweizerische Nationalfonds) http://p3.snf.ch/project-175953
+     · Funded by Swiss National Science Foundation grants [310030_153468](http://p3.snf.ch/project-153468) and [310030_175953](http://p3.snf.ch/project-175953)
   </small>
 
 + **Eveline Yao**<br><br>
@@ -60,7 +60,7 @@ on December 3, 2020.
 + **Sébastien F. Barré**<br><br>
   <small>
      Institute of Anatomy, University of Bern, Switzerland
-     · Funded by Swiss National Science Foundation (Schweizerische Nationalfonds) 153468; Swiss National Science Foundation (Schweizerische Nationalfonds) 175953
+     · Funded by Swiss National Science Foundation grants [310030_153468](http://p3.snf.ch/project-153468) and [310030_175953](http://p3.snf.ch/project-175953)
   </small>
 
 + **Tiziana P. Cremona**<br>
@@ -68,7 +68,7 @@ on December 3, 2020.
     [0000-0003-0061-9578](https://orcid.org/0000-0003-0061-9578)<br>
   <small>
      Institute of Anatomy, University of Bern, Switzerland
-     · Funded by Swiss National Science Foundation (Schweizerische Nationalfonds) 153468; Swiss National Science Foundation (Schweizerische Nationalfonds) 175953
+     · Funded by Swiss National Science Foundation grants [310030_153468](http://p3.snf.ch/project-153468) and [310030_175953](http://p3.snf.ch/project-175953)
   </small>
 
 + **Stefan A. Tschanz**<br>
@@ -83,7 +83,7 @@ on December 3, 2020.
     [0000-0003-4025-3961](https://orcid.org/0000-0003-4025-3961)<br>
   <small>
      Institute of Anatomy, University of Bern, Switzerland
-     · Funded by Swiss National Science Foundation (Schweizerische Nationalfonds) 153468; Swiss National Science Foundation (Schweizerische Nationalfonds) 175953
+     · Funded by Swiss National Science Foundation grants [310030_153468](http://p3.snf.ch/project-153468) and [310030_175953](http://p3.snf.ch/project-175953); Swiss National Science Foundation grants [310030_153468](http://p3.snf.ch/project-153468) and [310030_175953](http://p3.snf.ch/project-175953)
   </small>
 
 
@@ -164,9 +164,9 @@ E.g., we are currently using our computational fluid dynamics model to simulate 
 ## Materials & Methods
 ### Rat lung samples
 
-In the present study, a superset of the animals described by Haberthür et al. [@Haberth_r_2013] were used.
+In the present study, a superset of the animals described by Haberthür et al. [@doi:10.1152/japplphysiol.00642.2013] were used.
 Tschanz et al. [@doi:10.1152/japplphysiol.01355.2013] described a biphasic formation of new alveoli on the same set of animals.
-The stereological analysis presented here represents a part of the 3R-initiative (replacement, reduction, and refinement) [@Flecknell2002] for the ethical use and the reduction of the number of animals sacrificed for science.
+The stereological analysis presented here represents a part of the 3R-initiative (replacement, reduction, and refinement) [@https://www.altex.org/index.php/altex/article/view/1106] for the ethical use and the reduction of the number of animals sacrificed for science.
 
 Briefly, we extracted the lungs of Sprague-Dawley rats after having deeply anesthetized them with a mixture of medetomidine, midazolam, and fentanyl [@isbn:9783794527816].
 The rats were euthanized by exsanguination during the removal of the lung.
@@ -181,7 +181,7 @@ The experiments themselves, as well as the handling of the animals before and du
 
 ### Tomographic imaging
 
-Tomographic imaging was performed at the [TOMCAT](https://www.psi.ch/sls/tomcat/) beamline (A beamline for TOmographic Microscopy and Coherent rAdiology experimenTs) [@Marone2009; @doi:10.1080/08940886.2011.634315] of the [Swiss Light Source](https://www.psi.ch/sls/) at the [Paul Scherrer Institute](https://www.psi.ch/) in Villigen, Switzerland.
+Tomographic imaging was performed at the [TOMCAT](https://www.psi.ch/sls/tomcat/) beamline (A beamline for TOmographic Microscopy and Coherent rAdiology experimenTs) [@doi:10.1088/1742-6596/186/1/012042; @doi:10.1080/08940886.2011.634315] of the [Swiss Light Source](https://www.psi.ch/sls/) at the [Paul Scherrer Institute](https://www.psi.ch/) in Villigen, Switzerland.
 The samples were scanned at an X-ray energy of 20.0 keV.
 After penetrating the sample, the X-rays were converted into visible light by either a 20 μm-thick LuAG:Ce or 18 μm-thick YAG:Ce scintillator screen (both from [Crytur](http://www.crytur.cz/), Turnov, Czech Republic), depending on the date of experiments.
 The resulting visible light was magnified using a 10-times magnifying, diffraction-limited microscope lens and recorded with a 2048$\times$2048 pixel CCD camera ([pco.2000](https://www.pco.de/specialized-cameras/pco2000/), PCO, Kelheim, Germany) with 14 bits dynamic range operated in 2 by 2 binning mode.
@@ -197,14 +197,14 @@ The mean size of the tomographic reconstructions, corresponding to the raw data 
 ### Extraction of acini
 
 For the present manuscript, we extracted single acini from three-dimensional data, acquired without destroying the samples.
-Details of this semi-automatic extraction of the rat acini are described by Haberthür et al. [@Haberth_r_2013].
+Details of this semi-automatic extraction of the rat acini are described by Haberthür et al. [@doi:10.1152/japplphysiol.00642.2013].
 Individual acini were extracted from the tomographic data with a custom image processing network established in [MeVisLab](https://www.mevislab.de/) (version 2.1, 2010-07-26 release, MeVis Medical Solutions and Fraunhofer MEVIS-Institute for Medical Image Computing, Bremen, Germany).
 To isolate individual acini, we followed the airway tree in the data and manually placed disk-shaped segmentation stoppers at the acinus entrances.
 Thus, acini were selected independently of their size and only based on their location in the airway tree, are not selected based on their size.
 The acinus extraction was performed by segmenting the acinus volume with a gray-level threshold-based region growing algorithm with a seed point perpendicular to the manually placed segmentation stopper.
 Each individual acinus was then exported as a single DICOM file for portability.
 For each acinus, its exported DICOM file contained the segmented acinus overlaid with the original background for further analysis.
-Example images from the DICOM files are shown in the bottom row of figure @fig:1.
+Example images from the DICOM files are shown in the bottom row of figure @fig:01.
 
 This semi-automatic acinus segmentation method was applied to lung samples obtained throughout lung development, at postnatal days 4, 10, 21 and 60.
 In total we extracted 701 acini from 12 animals.
@@ -217,8 +217,8 @@ As a basis for the estimation the volumes of the lung lobes were first determent
 The lobe-volume was estimated a second time by the Cavalieri method.
 Both volumes were used to calculate the shrinkage, which was used for the correction of the volume data [@doi:10.1152/japplphysiol.01355.2013].
 
-To perform the stereological analysis, each DICOM file from the isolated acini was sampled into a systematic random set of single images using a MATLAB script [@dicomreaderandsaverforstepanizerm].
-The stereological assessment was performed with the [STEPanizer](http://stepanizer.com/) [@10.1111/j.1365-2818.2010.03481.x], an easy-to-use software tool for the stereological assessment of digital images.
+To perform the stereological analysis, each DICOM file from the isolated acini was sampled into a systematic random set of single images using a MATLAB script [@https://git.io/JTg4F].
+The stereological assessment was performed with the [STEPanizer](http://stepanizer.com/) [@doi:10.1111/j.1365-2818.2010.03481.x], an easy-to-use software tool for the stereological assessment of digital images.
 Details of the stereological assessment have previously been described [@doi:10.1152/japplphysiol.00642.2013].
 Briefly, we counted the appearance or disappearance of alveolar wall interruptions.
 Under the assumption that these only occur in the region of the alveolar mouth opening and correspond to alveolar entrance rings [@doi:10.1002/ar.a.20012] we counted said interruptions on paired images spanning the whole acinus volume.
@@ -245,7 +245,7 @@ Outliers are determined as a function of the inter-quartile range and are shown 
 Numerical values in the text are given as (averages$\pm$standard deviation).
 P-values in the text and figure legends are given as precise numbers, as suggested by Amhrein et al. [@doi:10.1038/d41586-019-00857-9].
 
-Usually, we performed a Shapiro-Wilk test for normality [@SHAPIRO_1965] to test whether we can use an U-test for assessing the differences, namely a two-sided Mann-Whitney rank test [@Mann_1947].
+Usually, we performed a Shapiro-Wilk test for normality [@doi:10.1093/biomet/52.3-4.591] to test whether we can use an U-test for assessing the differences, namely a two-sided Mann-Whitney rank test [@doi:10.1214/aoms/1177730491].
 This rank test was used to assess the differences between the possible combinations.
 An additional Kruskal-Wallis H-test for independent samples [@doi:10.1080/01621459.1952.10483441] was used to test for sample independence.
 The statistical analysis was performed in the aforementioned notebook by using the statistical functions of the Scientific Computing Tools for Python [@doi:10.1038/s41592-019-0686-2] or GraphPad Prism 7.01 (GraphPad Software, San Diego, CA, USA).
@@ -304,7 +304,7 @@ Table: Detailed alveolar numbers for each animal. {#tbl:counts}
   Left: linear scale, right: logarithmic scale.
   The entrance ring counts per day are all significantly different (all p-values better than 1.9e-5, which is the one between days 4 and 10).](images/fig02.png){#fig:02}
 
-The alveolar number shows highly significant differences Šidák-corrected p-value \< 0.00167 [@_id_k_1967]) between all possible combination of days.
+The alveolar number shows highly significant differences Šidák-corrected p-value \< 0.00167 [@doi:10.1080/01621459.1967.10482935]) between all possible combination of days.
 All possible combinations of entrance ring counts per day are significantly different (all p-values are better than p=1.9e-5, which is the p-value of the difference between days 4 and 10).
 The entrance ring counts for all animals are independent (p=1.6e-34).
 
@@ -542,13 +542,13 @@ Ongoing work in our group is aiming to describe additional parameters of the aci
 
 ### Physiological relevance of the acinar size
 
-It has been predicted by computational fluid dynamics simulations and by to-scale experiments that the amount and location of massless particle deposition, as well as ventilation, are depending on the size of the acini [@doi:10.1038/srep14071; @doi:10.1115/1.4027328; @10.1016/j.jbiomech.2008.12.022].
+It has been predicted by computational fluid dynamics simulations and by to-scale experiments that the amount and location of massless particle deposition, as well as ventilation, are depending on the size of the acini [@doi:10.1038/srep14071; @doi:10.1115/1.4027328; @doi:10.1016/j.jbiomech.2008.12.022].
 The predictions could be confirmed at least in one case, where mice received fluorescent particles during mechanical ventilation.
 In 3D-visualizations the particles were predominately detected in the proximal half of the acini [@doi:10.1021/acsnano.8b07524].
 
 Based on the above-mentioned knowledge and the data of this study, we propose the following.
 In very small acini as the smallest ones, we observed at postnatal day 4 acinar flows are mainly characterized by radial streamlines [@doi:10.1115/1.3049481; @doi:10.1007/s12650-010-0043-0].
-Massless particle deposition is governed by diffusion [@doi:10.1016/s0021-9290(06)84801-3].
+Massless particle deposition is governed by diffusion [@doi:10/cwkbbs].
 As the acini increase in size, convective transport becomes more and more dominant in the proximal regions of the acini.
 In larger acini, the proximal region shows much higher particle retention than the distal one, because in this region the larger air-flow induces a circular current, which facilitates alveolar particle deposition.
 The proximal regions may even be viewed analogously to a filter capturing the particles whereas the distal regions do not receive significant amounts [@doi:10.1038/srep14071; @doi:10.1115/1.4027328; @10.1016/j.jbiomech.2008.12.022; @doi:10.1152/japplphysiol.90546.2008; @doi:10.1115/1.4007949; @doi:10.1073/pnas.1119339109].
@@ -565,6 +565,7 @@ Therefore, the decrease of the inhomogeneity of the acinar sizes may be understo
 
 The consideration of the location is not only a theoretical one, because it has been shown in adult mice that the acini close to the pleura are larger than the central ones [@doi:10.1152/japplphysiol.00317.2016].
 Therefore, acini of different size are not evenly distributed in the lungs.
+
 
 ## Conclusion
 
