@@ -95,7 +95,7 @@ Sébastien
 situ
 Sprague
 STEPanizer
-Stereological
+stereological
 stereologically
 stereology
 subsampled
