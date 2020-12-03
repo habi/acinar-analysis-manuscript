@@ -62,7 +62,7 @@ Kruskal
 libitum
 LuAG
 Marone
-massless
+Massless
 MATLAB
 medetomidine
 MEVIS
@@ -77,7 +77,7 @@ Osmanagic
 Ouanella
 parenchyma
 parenchymal
-pco
+PCO
 Pinzer
 placentalian
 preprint
