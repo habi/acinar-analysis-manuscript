@@ -15,8 +15,7 @@ authors:
     affiliations:
       - Institute of Anatomy, University of Bern, Switzerland
     funders:
-      - Swiss National Science Foundation (Schweizerische Nationalfonds) http://p3.snf.ch/project-153468
-      - Swiss National Science Foundation (Schweizerische Nationalfonds) http://p3.snf.ch/project-175953
+      - Swiss National Science Foundation grants [310030_153468](http://p3.snf.ch/project-153468) and [310030_175953](http://p3.snf.ch/project-175953)
   - name: Eveline Yao
     initials: EY
     affiliations:
@@ -26,16 +25,14 @@ authors:
     affiliations:
       - Institute of Anatomy, University of Bern, Switzerland
     funders:
-      - Swiss National Science Foundation (Schweizerische Nationalfonds) 153468
-      - Swiss National Science Foundation (Schweizerische Nationalfonds) 175953
+      - Swiss National Science Foundation grants [310030_153468](http://p3.snf.ch/project-153468) and [310030_175953](http://p3.snf.ch/project-175953)
   - name: Tiziana P. Cremona
     initials: TC
     orcid: 0000-0003-0061-9578
     affiliations:
       - Institute of Anatomy, University of Bern, Switzerland
     funders:
-      - Swiss National Science Foundation (Schweizerische Nationalfonds) 153468
-      - Swiss National Science Foundation (Schweizerische Nationalfonds) 175953
+      - Swiss National Science Foundation grants [310030_153468](http://p3.snf.ch/project-153468) and [310030_175953](http://p3.snf.ch/project-175953)
   - name: Stefan A. Tschanz
     initials: ST
     orcid: 0000-0003-3880-4437
@@ -48,5 +45,6 @@ authors:
     affiliations:
       - Institute of Anatomy, University of Bern, Switzerland
     funders:
-      - Swiss National Science Foundation (Schweizerische Nationalfonds) 153468
-      - Swiss National Science Foundation (Schweizerische Nationalfonds) 175953
+      - Swiss National Science Foundation grants [310030_153468](http://p3.snf.ch/project-153468) and [310030_175953](http://p3.snf.ch/project-175953)
+      - Swiss National Science Foundation grants [310030_153468](http://p3.snf.ch/project-153468) and [310030_175953](http://p3.snf.ch/project-175953)
+    symbol_str: "✉"
