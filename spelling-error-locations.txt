@@ -150,7 +150,6 @@ content/03.materials.md:48:stereologically
 content/03.materials.md:48:subsampling
 content/03.materials.md:50:Stereological
 content/03.materials.md:52:stereological
-content/03.materials.md:53:Scherle
 content/03.materials.md:54:Cavalieri
 content/03.materials.md:57:acini
 content/03.materials.md:57:DICOM
