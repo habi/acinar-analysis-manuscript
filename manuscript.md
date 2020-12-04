@@ -10,7 +10,7 @@ bibliography:
 - content/manual-references.bib
 - content/manual-references.json
 date-meta: '2020-12-04'
-header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Pulmonary acini exhibit complex changes during postnatal rat lung development\" />\n<meta name=\"citation_title\" content=\"Pulmonary acini exhibit complex changes during postnatal rat lung development\" />\n<meta property=\"og:title\" content=\"Pulmonary acini exhibit complex changes during postnatal rat lung development\" />\n<meta property=\"twitter:title\" content=\"Pulmonary acini exhibit complex changes during postnatal rat lung development\" />\n<meta name=\"dc.date\" content=\"2020-12-04\" />\n<meta name=\"citation_publication_date\" content=\"2020-12-04\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"David Haberth\xFCr\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Switzerland\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-3388-9187\" />\n<meta name=\"twitter:creator\" content=\"@habi\" />\n<meta name=\"citation_author\" content=\"Eveline Yao\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Switzerland\" />\n<meta name=\"citation_author\" content=\"S\xE9bastien F. Barr\xE9\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Switzerland\" />\n<meta name=\"citation_author\" content=\"Tiziana P. Cremona\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Switzerland\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-0061-9578\" />\n<meta name=\"citation_author\" content=\"Stefan A. Tschanz\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Switzerland\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-3880-4437\" />\n<meta name=\"citation_author\" content=\"Johannes C. Schittny\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Switzerland\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-4025-3961\" />\n<link rel=\"canonical\" href=\"https://habi.github.io/acinar-analysis-manuscript/\" />\n<meta property=\"og:url\" content=\"https://habi.github.io/acinar-analysis-manuscript/\" />\n<meta property=\"twitter:url\" content=\"https://habi.github.io/acinar-analysis-manuscript/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://habi.github.io/acinar-analysis-manuscript/\" />\n<meta name=\"citation_pdf_url\" content=\"https://habi.github.io/acinar-analysis-manuscript/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://habi.github.io/acinar-analysis-manuscript/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://habi.github.io/acinar-analysis-manuscript/v/b6c94bd9b09a75063c29a39afcb8831a1724e180/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://habi.github.io/acinar-analysis-manuscript/v/b6c94bd9b09a75063c29a39afcb8831a1724e180/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://habi.github.io/acinar-analysis-manuscript/v/b6c94bd9b09a75063c29a39afcb8831a1724e180/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
+header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Pulmonary acini exhibit complex changes during postnatal rat lung development\" />\n<meta name=\"citation_title\" content=\"Pulmonary acini exhibit complex changes during postnatal rat lung development\" />\n<meta property=\"og:title\" content=\"Pulmonary acini exhibit complex changes during postnatal rat lung development\" />\n<meta property=\"twitter:title\" content=\"Pulmonary acini exhibit complex changes during postnatal rat lung development\" />\n<meta name=\"dc.date\" content=\"2020-12-04\" />\n<meta name=\"citation_publication_date\" content=\"2020-12-04\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"David Haberth\xFCr\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Switzerland\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-3388-9187\" />\n<meta name=\"twitter:creator\" content=\"@habi\" />\n<meta name=\"citation_author\" content=\"Eveline Yao\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Switzerland\" />\n<meta name=\"citation_author\" content=\"S\xE9bastien F. Barr\xE9\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Switzerland\" />\n<meta name=\"citation_author\" content=\"Tiziana P. Cremona\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Switzerland\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-0061-9578\" />\n<meta name=\"citation_author\" content=\"Stefan A. Tschanz\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Switzerland\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-3880-4437\" />\n<meta name=\"citation_author\" content=\"Johannes C. Schittny\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Switzerland\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-4025-3961\" />\n<link rel=\"canonical\" href=\"https://habi.github.io/acinar-analysis-manuscript/\" />\n<meta property=\"og:url\" content=\"https://habi.github.io/acinar-analysis-manuscript/\" />\n<meta property=\"twitter:url\" content=\"https://habi.github.io/acinar-analysis-manuscript/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://habi.github.io/acinar-analysis-manuscript/\" />\n<meta name=\"citation_pdf_url\" content=\"https://habi.github.io/acinar-analysis-manuscript/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://habi.github.io/acinar-analysis-manuscript/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://habi.github.io/acinar-analysis-manuscript/v/eb8aa2674994b5d0a1520095ebc7a0cda2545638/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://habi.github.io/acinar-analysis-manuscript/v/eb8aa2674994b5d0a1520095ebc7a0cda2545638/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://habi.github.io/acinar-analysis-manuscript/v/eb8aa2674994b5d0a1520095ebc7a0cda2545638/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
 keywords:
 - lung
 - acini
@@ -27,14 +27,15 @@ title: Pulmonary acini exhibit complex changes during postnatal rat lung develop
 
 
 A preprint of this manuscript is available on *bioRxiv* at <https://doi.org/10.1101/786681> and has been submitted to the [*American Journal of Physiology - Lung Cellular and Molecular Physiology*](https://journals.physiology.org/journal/ajplung).
-This version of the manuscript [has been updated](https://github.com/habi/acinar-analysis-manuscript/compare/d6fc17bd66bdca5cbff30d53e1dbc02d5351609b...b6c94bd9b09a75063c29a39afcb8831a1724e180) since the first round of review.
+
+This version of the manuscript [has been updated](https://github.com/habi/acinar-analysis-manuscript/compare/d6fc17bd66bdca5cbff30d53e1dbc02d5351609b...eb8aa2674994b5d0a1520095ebc7a0cda2545638) since the first round of review.
 
 
 <small><em>
 This manuscript
-([permalink](https://habi.github.io/acinar-analysis-manuscript/v/b6c94bd9b09a75063c29a39afcb8831a1724e180/))
+([permalink](https://habi.github.io/acinar-analysis-manuscript/v/eb8aa2674994b5d0a1520095ebc7a0cda2545638/))
 was automatically generated
-from [habi/acinar-analysis-manuscript@b6c94bd](https://github.com/habi/acinar-analysis-manuscript/tree/b6c94bd9b09a75063c29a39afcb8831a1724e180)
+from [habi/acinar-analysis-manuscript@eb8aa26](https://github.com/habi/acinar-analysis-manuscript/tree/eb8aa2674994b5d0a1520095ebc7a0cda2545638)
 on December 4, 2020.
 </em></small>
 
@@ -42,8 +43,8 @@ on December 4, 2020.
 
 
 
-+ **David Haberthür**<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon}
++ **David Haberthür**<sup></sup>
+    · ![ORCID icon](images/orcid.svg){.inline_icon}
     [0000-0003-3388-9187](https://orcid.org/0000-0003-3388-9187)
     · ![GitHub icon](images/github.svg){.inline_icon}
     [habi](https://github.com/habi)
@@ -51,45 +52,41 @@ on December 4, 2020.
     [habi](https://twitter.com/habi)<br>
   <small>
      Institute of Anatomy, University of Bern, Switzerland
-     · Funded by Swiss National Science Foundation grants [310030_153468](http://p3.snf.ch/project-153468) and [310030_175953](http://p3.snf.ch/project-175953)
   </small>
 
-+ **Eveline Yao**<br><br>
++ **Eveline Yao**<sup></sup><br>
   <small>
      Institute of Anatomy, University of Bern, Switzerland
   </small>
 
-+ **Sébastien F. Barré**<br><br>
++ **Sébastien F. Barré**<sup></sup><br>
   <small>
      Institute of Anatomy, University of Bern, Switzerland
-     · Funded by Swiss National Science Foundation grants [310030_153468](http://p3.snf.ch/project-153468) and [310030_175953](http://p3.snf.ch/project-175953)
   </small>
 
-+ **Tiziana P. Cremona**<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon}
++ **Tiziana P. Cremona**<sup></sup>
+    · ![ORCID icon](images/orcid.svg){.inline_icon}
     [0000-0003-0061-9578](https://orcid.org/0000-0003-0061-9578)<br>
   <small>
      Institute of Anatomy, University of Bern, Switzerland
-     · Funded by Swiss National Science Foundation grants [310030_153468](http://p3.snf.ch/project-153468) and [310030_175953](http://p3.snf.ch/project-175953)
   </small>
 
-+ **Stefan A. Tschanz**<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon}
++ **Stefan A. Tschanz**<sup></sup>
+    · ![ORCID icon](images/orcid.svg){.inline_icon}
     [0000-0003-3880-4437](https://orcid.org/0000-0003-3880-4437)<br>
   <small>
      Institute of Anatomy, University of Bern, Switzerland
   </small>
 
-+ **Johannes C. Schittny**<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon}
++ **Johannes C. Schittny**<sup>✉</sup>
+    · ![ORCID icon](images/orcid.svg){.inline_icon}
     [0000-0003-4025-3961](https://orcid.org/0000-0003-4025-3961)<br>
   <small>
      Institute of Anatomy, University of Bern, Switzerland
-     · Funded by Swiss National Science Foundation grants [310030_153468](http://p3.snf.ch/project-153468) and [310030_175953](http://p3.snf.ch/project-175953); Swiss National Science Foundation grants [310030_153468](http://p3.snf.ch/project-153468) and [310030_175953](http://p3.snf.ch/project-175953)
   </small>
 
 
-<sup>✉</sup>: Corresponding author. Correspondence preferred via [GitHub Issues](https://github.com/habi/acinar-analysis-manuscript/issues).
+<sup>✉</sup>: Corresponding author. Correspondence preferred via [GitHub Issues](https://github.com/habi/acinar-analysis-manuscript/issues), though.
 
 
 ## Abstract {.page_break_before}
