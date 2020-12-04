@@ -1,7 +1,7 @@
 acinar
 acini
-acinus
-alveolarization
+Acinus
+Alveolarization
 alveoli
 alveolus
 Amhrein
@@ -64,7 +64,7 @@ Marone
 Massless
 MATLAB
 medetomidine
-MeVis
+MEVIS
 MeVisLab
 microarchitecture
 midazolam
