@@ -64,7 +64,7 @@ Marone
 Massless
 MATLAB
 medetomidine
-MeVis
+MEVIS
 MeVisLab
 microarchitecture
 midazolam
@@ -94,7 +94,7 @@ Sébastien
 situ
 Sprague
 STEPanizer
-stereological
+Stereological
 stereologically
 stereology
 subsampled
