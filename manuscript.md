@@ -10,7 +10,7 @@ bibliography:
 - content/manual-references.bib
 - content/manual-references.json
 date-meta: '2020-12-08'
-header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Pulmonary acini exhibit complex changes during postnatal rat lung development\" />\n<meta name=\"citation_title\" content=\"Pulmonary acini exhibit complex changes during postnatal rat lung development\" />\n<meta property=\"og:title\" content=\"Pulmonary acini exhibit complex changes during postnatal rat lung development\" />\n<meta property=\"twitter:title\" content=\"Pulmonary acini exhibit complex changes during postnatal rat lung development\" />\n<meta name=\"dc.date\" content=\"2020-12-08\" />\n<meta name=\"citation_publication_date\" content=\"2020-12-08\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"David Haberth\xFCr\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Switzerland\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-3388-9187\" />\n<meta name=\"twitter:creator\" content=\"@habi\" />\n<meta name=\"citation_author\" content=\"Eveline Yao\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Switzerland\" />\n<meta name=\"citation_author\" content=\"S\xE9bastien F. Barr\xE9\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Switzerland\" />\n<meta name=\"citation_author\" content=\"Tiziana P. Cremona\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Switzerland\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-0061-9578\" />\n<meta name=\"citation_author\" content=\"Stefan A. Tschanz\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Switzerland\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-3880-4437\" />\n<meta name=\"citation_author\" content=\"Johannes C. Schittny\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Switzerland\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-4025-3961\" />\n<link rel=\"canonical\" href=\"https://habi.github.io/acinar-analysis-manuscript/\" />\n<meta property=\"og:url\" content=\"https://habi.github.io/acinar-analysis-manuscript/\" />\n<meta property=\"twitter:url\" content=\"https://habi.github.io/acinar-analysis-manuscript/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://habi.github.io/acinar-analysis-manuscript/\" />\n<meta name=\"citation_pdf_url\" content=\"https://habi.github.io/acinar-analysis-manuscript/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://habi.github.io/acinar-analysis-manuscript/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://habi.github.io/acinar-analysis-manuscript/v/bd33f8a44e5a603397d1f7fc7885ae6b754530aa/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://habi.github.io/acinar-analysis-manuscript/v/bd33f8a44e5a603397d1f7fc7885ae6b754530aa/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://habi.github.io/acinar-analysis-manuscript/v/bd33f8a44e5a603397d1f7fc7885ae6b754530aa/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
+header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Pulmonary acini exhibit complex changes during postnatal rat lung development\" />\n<meta name=\"citation_title\" content=\"Pulmonary acini exhibit complex changes during postnatal rat lung development\" />\n<meta property=\"og:title\" content=\"Pulmonary acini exhibit complex changes during postnatal rat lung development\" />\n<meta property=\"twitter:title\" content=\"Pulmonary acini exhibit complex changes during postnatal rat lung development\" />\n<meta name=\"dc.date\" content=\"2020-12-08\" />\n<meta name=\"citation_publication_date\" content=\"2020-12-08\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"David Haberth\xFCr\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Switzerland\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-3388-9187\" />\n<meta name=\"twitter:creator\" content=\"@habi\" />\n<meta name=\"citation_author\" content=\"Eveline Yao\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Switzerland\" />\n<meta name=\"citation_author\" content=\"S\xE9bastien F. Barr\xE9\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Switzerland\" />\n<meta name=\"citation_author\" content=\"Tiziana P. Cremona\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Switzerland\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-0061-9578\" />\n<meta name=\"citation_author\" content=\"Stefan A. Tschanz\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Switzerland\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-3880-4437\" />\n<meta name=\"citation_author\" content=\"Johannes C. Schittny\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Switzerland\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-4025-3961\" />\n<link rel=\"canonical\" href=\"https://habi.github.io/acinar-analysis-manuscript/\" />\n<meta property=\"og:url\" content=\"https://habi.github.io/acinar-analysis-manuscript/\" />\n<meta property=\"twitter:url\" content=\"https://habi.github.io/acinar-analysis-manuscript/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://habi.github.io/acinar-analysis-manuscript/\" />\n<meta name=\"citation_pdf_url\" content=\"https://habi.github.io/acinar-analysis-manuscript/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://habi.github.io/acinar-analysis-manuscript/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://habi.github.io/acinar-analysis-manuscript/v/9d5c623b3eefb444db71bb9adfe13d2531bc9516/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://habi.github.io/acinar-analysis-manuscript/v/9d5c623b3eefb444db71bb9adfe13d2531bc9516/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://habi.github.io/acinar-analysis-manuscript/v/9d5c623b3eefb444db71bb9adfe13d2531bc9516/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
 keywords:
 - lung
 - acini
@@ -28,14 +28,14 @@ title: Pulmonary acini exhibit complex changes during postnatal rat lung develop
 
 A preprint of this manuscript is available on *bioRxiv* at <https://doi.org/10.1101/786681> and has been submitted to the [*American Journal of Physiology - Lung Cellular and Molecular Physiology*](https://journals.physiology.org/journal/ajplung).
 
-This version of the manuscript [has been updated](https://github.com/habi/acinar-analysis-manuscript/compare/d6fc17bd66bdca5cbff30d53e1dbc02d5351609b...bd33f8a44e5a603397d1f7fc7885ae6b754530aa) since the first round of review.
+This version of the manuscript [has been updated](https://github.com/habi/acinar-analysis-manuscript/compare/d6fc17bd66bdca5cbff30d53e1dbc02d5351609b...9d5c623b3eefb444db71bb9adfe13d2531bc9516) since the first round of review.
 
 
 <small><em>
 This manuscript
-([permalink](https://habi.github.io/acinar-analysis-manuscript/v/bd33f8a44e5a603397d1f7fc7885ae6b754530aa/))
+([permalink](https://habi.github.io/acinar-analysis-manuscript/v/9d5c623b3eefb444db71bb9adfe13d2531bc9516/))
 was automatically generated
-from [habi/acinar-analysis-manuscript@bd33f8a](https://github.com/habi/acinar-analysis-manuscript/tree/bd33f8a44e5a603397d1f7fc7885ae6b754530aa)
+from [habi/acinar-analysis-manuscript@9d5c623](https://github.com/habi/acinar-analysis-manuscript/tree/9d5c623b3eefb444db71bb9adfe13d2531bc9516)
 on December 8, 2020.
 </em></small>
 
@@ -117,7 +117,7 @@ During classical alveolarization, new septa are formed starting from preexisting
 During continued alveolarization, new septa are formed from preexisting mature septa.
 In general, during alveolarization the structure of the alveolar septa is changed to increase the efficiency of the lung [@doi:10.1152/japplphysiol.01355.2013; @doi:10.1152/ajplung.00296.2007].
 
-Here, the timing of lung development is given for rats while the same stages and developmental mechanisms are observed in every placentalian species studied so far, including humans.
+In this manuscript, the timing of lung development is given for rats while the same stages and developmental mechanisms are observed in every placentalian species studied so far, including humans.
 However, the timing of lung development and especially the time point of birth relative to lung development is adapted in each species [@doi:10.1007/s00441-016-2545-0; @doi:10.1007/s00418-018-1749-7; @doi:10.1152/ajplung.00296.2007].
 
 ### The functional lung units
@@ -127,8 +127,8 @@ In humans, the acini contain approximately four generations of respiratory bronc
 The alveolar ducts start at the so-called bronchioalveolar duct junction (BADJ) where the lining of the inner airway surface abruptly changes from the cuboidal epithelium of the bronchioles into type 1 and type 2 alveolar epithelium which covers the alveoli.
 The small tree of airways distal of the BADJ is called a ventilatory unit [@doi:10.1152/jappl.1962.17.3.391].
 Since murine lungs do not possess respiratory bronchioles, the murine acini consist of one single ventilatory unit [@doi:10.1152/jappl.1962.17.3.391].
-In *this* study we used rat lungs; hence we exclusively speak of acini.
-To translate our results to humans, monkeys, or dogs, one would have to compare a rat acinus to a single ventilatory unit in these species.
+In this study we used rat lungs; hence we exclusively speak of acini.
+To translate our results from rats to humans, monkeys, or dogs one would have to compare one rat acinus to one single ventilatory unit in these species.
 
 Developmentally, the BADJ is of particular interest.
 The junction is formed during the canalicular stage when the epithelia are differentiating.
@@ -137,11 +137,7 @@ As a consequence, in rats the number of formed acini also remains constant durin
 The latter was somehow surprising because in rats the total lung volume increases by roughly a factor of 10 during alveolarization [@doi:10.1152/japplphysiol.01355.2013].
 Therefore, the mean volume of the acini has to increase by approximately the same factor.
 
-However, besides the global numbers little is known about the range of the volume of individual acini throughout lung development.
 The acinar architecture is important for ventilation, airflow [@doi:10.1038/srep14071; @doi:10.1371/journal.pcbi.1007079; @doi:10.1115/1.4027328] and particle deposition [@doi:10.1073/pnas.1119339109; @doi:10/gd289q; @doi:10.1152/japplphysiol.01355.2013].
-However, due to the lack of measured data, simulations are based on relatively simple acinar models.
-The question of how well these models represent lung physiology remains open until the necessary data and physiologically correct models are available.
-To contribute to the validation of the computational fluid dynamics simulations, we extracted individual acini and determined their volume and their number of alveoli throughout rat lung development.
 
 ### Acinus detection and delineation
 
@@ -154,6 +150,17 @@ In their study, they reconstructed 22 mouse acini from tomographic data sets of 
 Similarly, Kizhakke Puliyakote et al. [@doi:10.1152/japplphysiol.00317.2016] analyzed the volume of 32 mouse acini from six animals, as well as the branching pattern of their internal airways.
 All prior work known to us has analyzed considerably fewer acini than the 268 acini presented here and focuses only on a time point, at which the lungs of the animals are already fully developed while our data spans the postnatal days 4 to 60.
 
+### Aims of this study
+
+#### Acinar structure
+
+Due to the lack of precise and complete three-dimensional data, simulations of airflow in the lung are based on relatively simple acinar models.
+The question of how well these models represent lung physiology remains open until the necessary data and physiologically correct models are available.
+To contribute to the validation of the computational fluid dynamics simulations, we extracted individual acini and determined their volume and their number of alveoli throughout rat lung development.
+
+#### Individual acinar volumes
+
+While the global volume of the acini is well known and studied, only little is known about the range of the volume of individual acini throughout lung development.
 We developed the hereby presented method to analyze large amounts of acini over the course of postnatal lung development in a time-efficient manner since no data on large amounts of acini is available up to now.
 Our aim was to understand the size distribution of the acini during lung development including the contribution of the alveoli.
 The observed range *de*creased during postnatal lung development by a factor of 6&ndash;7, which represents a completely unexpected result.

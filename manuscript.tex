@@ -93,12 +93,12 @@
 
 A preprint of this manuscript is available on \emph{bioRxiv} at \url{https://doi.org/10.1101/786681} and has been submitted to the \href{https://journals.physiology.org/journal/ajplung}{\emph{American Journal of Physiology - Lung Cellular and Molecular Physiology}}.
 
-This version of the manuscript \href{https://github.com/habi/acinar-analysis-manuscript/compare/d6fc17bd66bdca5cbff30d53e1dbc02d5351609b...bd33f8a44e5a603397d1f7fc7885ae6b754530aa}{has been updated} since the first round of review.
+This version of the manuscript \href{https://github.com/habi/acinar-analysis-manuscript/compare/d6fc17bd66bdca5cbff30d53e1dbc02d5351609b...9d5c623b3eefb444db71bb9adfe13d2531bc9516}{has been updated} since the first round of review.
 
 This manuscript
-(\href{https://habi.github.io/acinar-analysis-manuscript/v/bd33f8a44e5a603397d1f7fc7885ae6b754530aa/}{permalink})
+(\href{https://habi.github.io/acinar-analysis-manuscript/v/9d5c623b3eefb444db71bb9adfe13d2531bc9516/}{permalink})
 was automatically generated
-from \href{https://github.com/habi/acinar-analysis-manuscript/tree/bd33f8a44e5a603397d1f7fc7885ae6b754530aa}{habi/acinar-analysis-manuscript@bd33f8a}
+from \href{https://github.com/habi/acinar-analysis-manuscript/tree/9d5c623b3eefb444db71bb9adfe13d2531bc9516}{habi/acinar-analysis-manuscript@9d5c623}
 on December 8, 2020.
 
 \hypertarget{authors}{%
@@ -171,7 +171,7 @@ During classical alveolarization, new septa are formed starting from preexisting
 During continued alveolarization, new septa are formed from preexisting mature septa.
 In general, during alveolarization the structure of the alveolar septa is changed to increase the efficiency of the lung (\protect\hyperlink{ref-d1YV8oOK}{35}, \protect\hyperlink{ref-wnl86DEM}{46}).
 
-Here, the timing of lung development is given for rats while the same stages and developmental mechanisms are observed in every placentalian species studied so far, including humans.
+In this manuscript, the timing of lung development is given for rats while the same stages and developmental mechanisms are observed in every placentalian species studied so far, including humans.
 However, the timing of lung development and especially the time point of birth relative to lung development is adapted in each species~(\protect\hyperlink{ref-XQLPrPTJ}{32}, \protect\hyperlink{ref-ODQCVC23}{33}, \protect\hyperlink{ref-d1YV8oOK}{35}).
 
 \hypertarget{the-functional-lung-units}{%
@@ -182,8 +182,8 @@ In humans, the acini contain approximately four generations of respiratory bronc
 The alveolar ducts start at the so-called bronchioalveolar duct junction (BADJ) where the lining of the inner airway surface abruptly changes from the cuboidal epithelium of the bronchioles into type 1 and type 2 alveolar epithelium which covers the alveoli.
 The small tree of airways distal of the BADJ is called a ventilatory unit~(\protect\hyperlink{ref-WDrIHn9p}{39}).
 Since murine lungs do not possess respiratory bronchioles, the murine acini consist of one single ventilatory unit~(\protect\hyperlink{ref-WDrIHn9p}{39}).
-In \emph{this} study we used rat lungs; hence we exclusively speak of acini.
-To translate our results to humans, monkeys, or dogs, one would have to compare a rat acinus to a single ventilatory unit in these species.
+In this study we used rat lungs; hence we exclusively speak of acini.
+To translate our results from rats to humans, monkeys, or dogs one would have to compare one rat acinus to one single ventilatory unit in these species.
 
 Developmentally, the BADJ is of particular interest.
 The junction is formed during the canalicular stage when the epithelia are differentiating.
@@ -192,11 +192,7 @@ As a consequence, in rats the number of formed acini also remains constant durin
 The latter was somehow surprising because in rats the total lung volume increases by roughly a factor of 10 during alveolarization~(\protect\hyperlink{ref-wnl86DEM}{46}).
 Therefore, the mean volume of the acini has to increase by approximately the same factor.
 
-However, besides the global numbers little is known about the range of the volume of individual acini throughout lung development.
 The acinar architecture is important for ventilation, airflow~(\protect\hyperlink{ref-CVl41LwO}{8}, \protect\hyperlink{ref-eb0gk6VO}{14}, \protect\hyperlink{ref-1DP2FRUSZ}{16}) and particle deposition~(\protect\hyperlink{ref-18DcNLAv6}{22}, \protect\hyperlink{ref-yHHhvOtP}{36}, \protect\hyperlink{ref-wnl86DEM}{46}).
-However, due to the lack of measured data, simulations are based on relatively simple acinar models.
-The question of how well these models represent lung physiology remains open until the necessary data and physiologically correct models are available.
-To contribute to the validation of the computational fluid dynamics simulations, we extracted individual acini and determined their volume and their number of alveoli throughout rat lung development.
 
 \hypertarget{acinus-detection-and-delineation}{%
 \subsubsection{Acinus detection and delineation}\label{acinus-detection-and-delineation}}
@@ -210,6 +206,20 @@ In their study, they reconstructed 22 mouse acini from tomographic data sets of 
 Similarly, Kizhakke Puliyakote et al.~(\protect\hyperlink{ref-RGBeCf8v}{20}) analyzed the volume of 32 mouse acini from six animals, as well as the branching pattern of their internal airways.
 All prior work known to us has analyzed considerably fewer acini than the 268 acini presented here and focuses only on a time point, at which the lungs of the animals are already fully developed while our data spans the postnatal days 4 to 60.
 
+\hypertarget{aims-of-this-study}{%
+\subsubsection{Aims of this study}\label{aims-of-this-study}}
+
+\hypertarget{acinar-structure}{%
+\paragraph{Acinar structure}\label{acinar-structure}}
+
+Due to the lack of precise and complete three-dimensional data, simulations of airflow in the lung are based on relatively simple acinar models.
+The question of how well these models represent lung physiology remains open until the necessary data and physiologically correct models are available.
+To contribute to the validation of the computational fluid dynamics simulations, we extracted individual acini and determined their volume and their number of alveoli throughout rat lung development.
+
+\hypertarget{individual-acinar-volumes}{%
+\paragraph{Individual acinar volumes}\label{individual-acinar-volumes}}
+
+While the global volume of the acini is well known and studied, only little is known about the range of the volume of individual acini throughout lung development.
 We developed the hereby presented method to analyze large amounts of acini over the course of postnatal lung development in a time-efficient manner since no data on large amounts of acini is available up to now.
 Our aim was to understand the size distribution of the acini during lung development including the contribution of the alveoli.
 The observed range \emph{de}creased during postnatal lung development by a factor of 6--7, which represents a completely unexpected result.
