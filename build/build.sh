@@ -10,6 +10,9 @@ set -o errexit \
 export TZ=Etc/UTC
 # Default Python to read/write text files using UTF-8 encoding
 export LC_ALL=en_US.UTF-8
+# Build both .tex and .doc file, too
+export BUILD_LATEX=true
+export BUILD_DOCX=true
 
 # Generate reference information
 echo >&2 "Retrieving and processing reference metadata"
@@ -83,6 +86,15 @@ if [ "${BUILD_DOCX:-}" = "true" ]; then
     --data-dir="$PANDOC_DATA_DIR" \
     --defaults=common.yaml \
     --defaults=docx.yaml
+fi
+
+# Create LaTeX output (if BUILD_LATEX environment variable equals "true")
+if [ "${BUILD_LATEX:-}" = "true" ]; then
+  echo >&2 "Exporting LaTeX manuscript"
+  pandoc \
+      --data-dir="$PANDOC_DATA_DIR" \
+      --defaults=common.yaml \
+      --defaults=latex.yaml
 fi
 
 # Spellcheck
