@@ -6,6 +6,7 @@ alveoli
 alveolus
 Amhrein
 angiogenetic
+assessement
 BADJ
 Barré
 beamline
@@ -64,7 +65,7 @@ Marone
 Massless
 MATLAB
 medetomidine
-MeVis
+MEVIS
 MeVisLab
 microarchitecture
 midazolam
@@ -76,7 +77,7 @@ Osmanagic
 Ouanella
 parenchyma
 parenchymal
-pco
+PCO
 Pinzer
 placentalian
 preprint

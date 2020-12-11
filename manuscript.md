@@ -10,7 +10,7 @@ bibliography:
 - content/manual-references.bib
 - content/manual-references.json
 date-meta: '2020-12-11'
-header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Pulmonary acini exhibit complex changes during postnatal rat lung development\" />\n<meta name=\"citation_title\" content=\"Pulmonary acini exhibit complex changes during postnatal rat lung development\" />\n<meta property=\"og:title\" content=\"Pulmonary acini exhibit complex changes during postnatal rat lung development\" />\n<meta property=\"twitter:title\" content=\"Pulmonary acini exhibit complex changes during postnatal rat lung development\" />\n<meta name=\"dc.date\" content=\"2020-12-11\" />\n<meta name=\"citation_publication_date\" content=\"2020-12-11\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"David Haberth\xFCr\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Switzerland\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-3388-9187\" />\n<meta name=\"twitter:creator\" content=\"@habi\" />\n<meta name=\"citation_author\" content=\"Eveline Yao\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Switzerland\" />\n<meta name=\"citation_author\" content=\"S\xE9bastien F. Barr\xE9\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Switzerland\" />\n<meta name=\"citation_author\" content=\"Tiziana P. Cremona\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Switzerland\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-0061-9578\" />\n<meta name=\"citation_author\" content=\"Stefan A. Tschanz\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Switzerland\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-3880-4437\" />\n<meta name=\"citation_author\" content=\"Johannes C. Schittny\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Switzerland\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-4025-3961\" />\n<link rel=\"canonical\" href=\"https://habi.github.io/acinar-analysis-manuscript/\" />\n<meta property=\"og:url\" content=\"https://habi.github.io/acinar-analysis-manuscript/\" />\n<meta property=\"twitter:url\" content=\"https://habi.github.io/acinar-analysis-manuscript/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://habi.github.io/acinar-analysis-manuscript/\" />\n<meta name=\"citation_pdf_url\" content=\"https://habi.github.io/acinar-analysis-manuscript/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://habi.github.io/acinar-analysis-manuscript/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://habi.github.io/acinar-analysis-manuscript/v/972122497429c9a7e842390363eb90386afd373b/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://habi.github.io/acinar-analysis-manuscript/v/972122497429c9a7e842390363eb90386afd373b/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://habi.github.io/acinar-analysis-manuscript/v/972122497429c9a7e842390363eb90386afd373b/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
+header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Pulmonary acini exhibit complex changes during postnatal rat lung development\" />\n<meta name=\"citation_title\" content=\"Pulmonary acini exhibit complex changes during postnatal rat lung development\" />\n<meta property=\"og:title\" content=\"Pulmonary acini exhibit complex changes during postnatal rat lung development\" />\n<meta property=\"twitter:title\" content=\"Pulmonary acini exhibit complex changes during postnatal rat lung development\" />\n<meta name=\"dc.date\" content=\"2020-12-11\" />\n<meta name=\"citation_publication_date\" content=\"2020-12-11\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"David Haberth\xFCr\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Switzerland\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-3388-9187\" />\n<meta name=\"twitter:creator\" content=\"@habi\" />\n<meta name=\"citation_author\" content=\"Eveline Yao\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Switzerland\" />\n<meta name=\"citation_author\" content=\"S\xE9bastien F. Barr\xE9\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Switzerland\" />\n<meta name=\"citation_author\" content=\"Tiziana P. Cremona\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Switzerland\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-0061-9578\" />\n<meta name=\"citation_author\" content=\"Stefan A. Tschanz\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Switzerland\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-3880-4437\" />\n<meta name=\"citation_author\" content=\"Johannes C. Schittny\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Switzerland\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-4025-3961\" />\n<link rel=\"canonical\" href=\"https://habi.github.io/acinar-analysis-manuscript/\" />\n<meta property=\"og:url\" content=\"https://habi.github.io/acinar-analysis-manuscript/\" />\n<meta property=\"twitter:url\" content=\"https://habi.github.io/acinar-analysis-manuscript/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://habi.github.io/acinar-analysis-manuscript/\" />\n<meta name=\"citation_pdf_url\" content=\"https://habi.github.io/acinar-analysis-manuscript/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://habi.github.io/acinar-analysis-manuscript/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://habi.github.io/acinar-analysis-manuscript/v/a04b78817dad0c1dd6ce05f2e961363c2da567ba/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://habi.github.io/acinar-analysis-manuscript/v/a04b78817dad0c1dd6ce05f2e961363c2da567ba/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://habi.github.io/acinar-analysis-manuscript/v/a04b78817dad0c1dd6ce05f2e961363c2da567ba/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
 keywords:
 - lung
 - acini
@@ -26,15 +26,15 @@ title: Pulmonary acini exhibit complex changes during postnatal rat lung develop
 
 
 
-A preprint of this manuscript is available on *bioRxiv* at <https://doi.org/10.1101/786681> and has been submitted to the [*American Journal of Physiology - Lung Cellular and Molecular Physiology*](https://journals.physiology.org/journal/ajplung).
-The manuscript [has been updated](https://github.com/habi/acinar-analysis-manuscript/compare/d6fc17bd66bdca5cbff30d53e1dbc02d5351609b...972122497429c9a7e842390363eb90386afd373b) since the first round of review.
+A preprint of this manuscript is available on *bioRxiv* with the DOI [10.1101/786681](https://doi.org/10.1101/786681) and is under revision in the [*American Journal of Physiology - Lung Cellular and Molecular Physiology*](https://journals.physiology.org/journal/ajplung).
+The manuscript [has been updated](https://github.com/habi/acinar-analysis-manuscript/compare/d6fc17bd66bdca5cbff30d53e1dbc02d5351609b...a04b78817dad0c1dd6ce05f2e961363c2da567ba) since the first round of review.
 
 
 <small><em>
 This manuscript
-([permalink](https://habi.github.io/acinar-analysis-manuscript/v/972122497429c9a7e842390363eb90386afd373b/))
+([permalink](https://habi.github.io/acinar-analysis-manuscript/v/a04b78817dad0c1dd6ce05f2e961363c2da567ba/))
 was automatically generated
-from [habi/acinar-analysis-manuscript@9721224](https://github.com/habi/acinar-analysis-manuscript/tree/972122497429c9a7e842390363eb90386afd373b)
+from [habi/acinar-analysis-manuscript@a04b788](https://github.com/habi/acinar-analysis-manuscript/tree/a04b78817dad0c1dd6ce05f2e961363c2da567ba)
 on December 11, 2020.
 </em></small>
 
@@ -45,7 +45,7 @@ on December 11, 2020.
 + **David Haberthür**<sup></sup>
     · ![ORCID icon](images/orcid.svg){.inline_icon}
     [0000-0003-3388-9187](https://orcid.org/0000-0003-3388-9187)
-    · [haberthuer@ana.unibe.ch](mailto:haberthuer@ana.unibe.ch?subject=Feedback\%20regarding\%20the\%20acinus\%20manuscript\%20(9721224))
+    · [haberthuer@ana.unibe.ch](mailto:haberthuer@ana.unibe.ch?subject=Feedback\%20regarding\%20the\%20acinus\%20manuscript\%20(a04b788))
     · ![GitHub icon](images/github.svg){.inline_icon}
     [habi](https://github.com/habi)
     · ![Twitter icon](images/twitter.svg){.inline_icon}
@@ -81,7 +81,7 @@ on December 11, 2020.
 + **Johannes C. Schittny**<sup>✉</sup>
     · ![ORCID icon](images/orcid.svg){.inline_icon}
     [0000-0003-4025-3961](https://orcid.org/0000-0003-4025-3961)
-    · [schittny@ana.unibe.ch](mailto:schittny@ana.unibe.ch?subject=Feedback\%20regarding\%20the\%20acinus\%20manuscript\%20(9721224))<br>
+    · [schittny@ana.unibe.ch](mailto:schittny@ana.unibe.ch?subject=Feedback\%20regarding\%20the\%20acinus\%20manuscript\%20(a04b788))<br>
   <small>
      Institute of Anatomy, University of Bern, Switzerland
   </small>
@@ -107,13 +107,13 @@ This likely leads to more homogeneous ventilation at later stages in lung develo
 ### Lung development
 
 Lung development starts with the formation of the two lung buds.
-During the embryonic stage (prenatal days E11&ndash;E13 in rats) the major airways and the pleura are formed.
-During the pseudoglandular stage (E13&ndash;E18.5) most of the remaining airway generations are formed by branching morphogenesis.
-Only few additional branches are added during the later stages (canalicular (E18.5&ndash;E20) and (E20 to postnatal day P4)) [@Schittny2007].
+During the embryonic stage (prenatal days E11--E13 in rats) the major airways and the pleura are formed.
+During the pseudoglandular stage (E13--E18.5) most of the remaining airway generations are formed by branching morphogenesis.
+Only few additional branches are added during the later stages (canalicular (E18.5--E20) and (E20 to postnatal day P4)) [@Schittny2007].
 Epithelial differentiation during the canalicular stage and angiogenetic activation of the capillaries lead to the first functional air-blood barriers in the lung [@doi:10.1007/s00418-018-1749-7].
 The saccular stage represents an intermediate stage where branching morphogenesis ceases and the developmental program switches to the phase of alveolarization.
 During alveolarization, 90 % of the adult gas-exchange area is formed by lifting off new septa from the existing gas-exchange surface [@doi:10.1002/ar.1091780405; @doi:10.1002/ar.1091800108; @doi:10.1007/s00441-016-2545-0].
-Alveolarization itself is divided into two distinct phases, the so-called classical (P4&ndash;P21) and continued alveolarization (P14 to approximately P60) [@doi:10.1152/japplphysiol.01355.2013; @doi:10.1152/ajplung.00296.2007].
+Alveolarization itself is divided into two distinct phases, the so-called classical (P4--P21) and continued alveolarization (P14 to approximately P60) [@doi:10.1152/japplphysiol.01355.2013; @doi:10.1152/ajplung.00296.2007].
 During classical alveolarization, new septa are formed starting from preexisting immature septa which contain a double-layered capillary network.
 During continued alveolarization, new septa are formed from preexisting mature septa.
 In general, during alveolarization the structure of the alveolar septa is changed to increase the efficiency of the lung [@doi:10.1152/japplphysiol.01355.2013; @doi:10.1152/ajplung.00296.2007].
@@ -142,7 +142,7 @@ The acinar architecture is important for ventilation, airflow [@doi:10.1038/sre
 
 ### Acinus detection and delineation
 
-On single two-dimensional sections&mdash;either histological or virtual from tomographic imaging&mdash;it is not possible to unambiguously detect which parts of the airways and alveoli are connected three-dimensionally.
+On single two-dimensional sections---either histological or virtual from tomographic imaging---it is not possible to unambiguously detect which parts of the airways and alveoli are connected three-dimensionally.
 To detect and delineate individual acini the full three-dimensional information is needed.
 Historically, single or very few acini were delineated and extracted from manually traced serial sections [@doi:10.1152/jappl.1987.63.2.785; @doi:10.1111/j.1469-7580.2005.00413.x] or sectioned silicone casts [@doi:10.1002/aja.1001800204] with considerable manual work.
 Non-destructive three-dimensional imaging is best suited to acquire data sets that can be used to easily detect, delineate, and study large amounts of single acini.
@@ -164,7 +164,7 @@ To contribute to the validation of the computational fluid dynamics simulations,
 While the global volume of the acini is well known and studied, only little is known about the range of the volume of individual acini throughout lung development.
 We developed the hereby presented method to analyze large amounts of acini over the course of postnatal lung development in a time-efficient manner since no data on large amounts of acini is available up to now.
 Our aim was to understand the size distribution of the acini during lung development including the contribution of the alveoli.
-The observed range *de*creased during postnatal lung development by a factor of 6&ndash;7, which represents a completely unexpected result.
+The observed range *de*creased during postnatal lung development by a factor of 6--7, which represents a completely unexpected result.
 The obtained data are essential for further investigations, like the influence of the size of the acini on ventilation or gas-washout, respectively.
 E.g., we are currently using our computational fluid dynamics model to simulate exactly this influence (own unpublished results and [@doi:10.1371/journal.pcbi.1007079]).
 
@@ -246,7 +246,7 @@ All the stereologically assessed data was processed in a [Jupyter](http://jupyte
 The notebook with all its history is freely available on GitHub [@zenodo].
 The performed calculations are described in detail in the [Results] section.
 In the plots, semitransparent circles mark the single observations.
-The box shows the 25 %&ndash;75 % quartiles range of the data.
+The box shows the 25 %--75 % quartiles range of the data.
 The whiskers extend to the rest of the distribution.
 Outliers are determined as a function of the inter-quartile range and are shown outside the whiskers.
 Numerical values in the text are given as averages ± standard deviation.
@@ -263,15 +263,15 @@ The number of alveoli per acinus was assessed for 268 individual acini at days 4
 For day 4, we analyzed 125 acini, for day 10 we analyzed 58 acini, for day 21 we analyzed 42 acini, and for day 60 we analyzed 43 acini.
 
 An overview of our process is shown in figure @fig:01.
-Panels A&ndash;D depict a representative light microscopy image for each assessed time point.
-Panels E&ndash;H of figure @fig:01 each correspond to one slice of the tomographic data sets acquired at TOMCAT.
-Panels I&ndash;L of figure @fig:01 show the middle slice of the datasets used for the stereological analysis of the extracted acini.
+Panels A--D depict a representative light microscopy image for each assessed time point.
+Panels E--H of figure @fig:01 each correspond to one slice of the tomographic data sets acquired at TOMCAT.
+Panels I--L of figure @fig:01 show the middle slice of the datasets used for the stereological analysis of the extracted acini.
 The acinus is shown in light gray as an overlay over the tomographic data.
 
 ![Example images for each of the assessed time points.
-  A&ndash;D: Representative light microscopy images.
-  E&ndash;H: One slice of the tomographic data sets.
-  I&ndash;L: Middle slice of one of the extracted acini.
+  A--D: Representative light microscopy images.
+  E--H: One slice of the tomographic data sets.
+  I--L: Middle slice of one of the extracted acini.
   The extracted acinus is overlaid on the tomographic dataset.
   Panels J and K also show the segmentation stopper at the left border of the image.
   The shown images correspond to the middle slice of the full data sets used for the stereological analysis.
@@ -338,10 +338,10 @@ The values for the single animals are shown in table @tbl:volumes and displayed 
 
 Table: Detailed volume data (in mm^3^) for each animal. {#tbl:volumes}
 
-The mean volume of the 20 % smallest acini to the 20 % largest acini at day 4 differs by a factor of 27.47 (from 0.0035 μl&ndash;0.095 μl, N=25).
-At day 10, this increase is 15.28 times (from 0.0071 μl&ndash;0.11 μl, N=12).
-At day 21, this increase is 14.42 times (from 0.018 μl&ndash;0.26 μl, N=8).
-At day 60, we saw an increase of 3.94 times (from 0.33 μl&ndash;1.3 μl, N=9).
+The mean volume of the 20 % smallest acini to the 20 % largest acini at day 4 differs by a factor of 27.47 (from 0.0035 μl--0.095 μl, N=25).
+At day 10, this increase is 15.28 times (from 0.0071 μl--0.11 μl, N=12).
+At day 21, this increase is 14.42 times (from 0.018 μl--0.26 μl, N=8).
+At day 60, we saw an increase of 3.94 times (from 0.33 μl--1.3 μl, N=9).
 
 ![Distribution of the acinar volumes for each animal.
   Left: linear scale, right: logarithmic scale.
@@ -421,10 +421,10 @@ The average diameter was estimated by assuming spherical alveoli and solving the
 ## Discussion
 
 To our best knowledge, the present manuscript is the first to quantitatively describe the number of alveoli in individual acini and changes in the volumes of single rat lung acini.
-Based on stereological analysis of a large number of individual acini we were able to efficiently extract qualitative and quantitative data of large amounts of single acini from non-destructive three-dimensional tomographic data sets in a highly reproducible manner.
+Based on stereological analysis of a large number of individual acini we were able to efficiently extract qualitative and quantitative data from non-destructive three-dimensional tomographic data sets of individual acini in a highly reproducible manner.
 
 We can easily estimate the total number of acini during lung development from our data.
-The limitations of this study are mainly twofold: a) due to technical reasons (i.e. available beamtime and limitations of the setup we could not image the entire lung and b) lung location (i.e.  lower medial tip of the right lobe).
+The limitations of this study are mainly twofold: a) due to technical reasons (i.e. available beamtime and limitations of the setup we could not image the entire lung and b) lung location (i.e. lower medial tip of the right lobe).
 However, our sample is more than suitable for the drawn conclusions because it was previously shown that the right lower lobe is a valid sample for the entire lung [@doi:10.1152/ajplung.00325.2016] and that information drawn from one lobe is representative of the whole lung [@doi:10.3109/01902149009087879].
 Furthermore, based on stereological data, Zeltner et al. [@doi:10.3109/01902149009087879] were able to show that the lung parenchyma is quite homogeneous.
 Looking at individual acini, Kizhakke Puliyakote et al. [@doi:10.1152/japplphysiol.00317.2016] observed that the peripheral, pleura facing acini possess an acinar volume which is two thirds larger than the volume of the central ones.
@@ -462,30 +462,26 @@ This result suggests that acinar growth is not constant during lung development.
 It seems that some acini increase their volume faster than others.
 As a result, we speculate that an increased percentage of acini is somehow dormant at day 4&dash;21, while at day 60 most of the acini reached their final volume.
 
-By dividing the parenchymal volumes of each lung estimated by Tschanz et al.
-(Table 1, [@doi:10.1152/japplphysiol.01355.2013]) by the mean number of acini estimated by Barré et al. [@doi:10.14814/phy2.12063] we can estimate the mean acinar volume for each day.
+By dividing the parenchymal volumes of each lung estimated by Tschanz et al. (Table 1, [@doi:10.1152/japplphysiol.01355.2013]) by the mean number of acini estimated by Barré et al. [@doi:10.14814/phy2.12063] we can estimate the mean acinar volume for each day.
 The acinus volume we estimated by point counting (Cavalieri estimation) are on average 2.07 times lower but show a similar increase over the studied period (see figure @fig:06).
 It appears that the comparison between data obtained by stereology based on classical paraffin sections or on any kind of 3D-imaging has its limitation if it comes to the absolute numbers.
 First, due to the *coast of Britain*-effect the exact value of every surface measurement is depending on the resolution of the imaging method [@doi:10.1126/science.156.3775.636].
-Second, the thickness of the alveolar septa in 3D-imaging data is heavily depending on the segmentation between airspace and tissue&mdash;regardless if it is done manually or by a computed algorithm.
+Second, the thickness of the alveolar septa in 3D-imaging data is heavily depending on the segmentation between airspace and tissue---regardless if it is done manually or by a computed algorithm.
 We observed that the airspace volumes obtained by 3D-imaging has a tendency to be smaller than the ones determined using classical paraffin sections.
 However, the relative numbers obtained in one study match the ones of other studies quite well.
 
 ![Plot of the mean acinar volumes.
-  By dividing the parenchymal volumes of each lung estimated by Tschanz et al.
-(Table 1, [@doi:10.1152/japplphysiol.01355.2013]) by the mean number of acini estimated by Barre et al. [@doi:10.14814/phy2.12063] we can estimate the mean acinar volume for each measured time point (blue plot).
+  By dividing the parenchymal volumes of each lung estimated by Tschanz et al. (Table 1, [@doi:10.1152/japplphysiol.01355.2013]) by the mean number of acini estimated by Barre et al. [@doi:10.14814/phy2.12063] we can estimate the mean acinar volume for each measured time point (blue plot).
   We assessed the volumes of the acini by point counting (Cavalieri estimation, orange plot).
   Left: original data.
   Right: Our data, scaled by a linear correction factor.
   Our volumes of the acini are on average 2.07 times lower but show a similar increase over the studied period.
-  While the estimation based on Tschanz et al.
-is from the entire right middle lobe and on Barre et al.
-globally for the whole organ, our estimation is solely based on the stereological analysis of the acini in the lower medial tip of the right lower lung lobe.](images/fig06.png){#fig:06}
+  While the estimation based on Tschanz et al. is from the entire right middle lobe and on Barre et al. globally for the whole organ, our estimation is solely based on the stereological analysis of the acini in the lower medial tip of the right lower lung lobe.](images/fig06.png){#fig:06}
 
 ### Number of alveoli per acinus volume
 
 The volume and shape of the alveoli, alveolar ducts, and the acini are critical parameters for ventilation and particle deposition [@doi:10.1007/s12650-010-0043-0; @doi:10.1115/1.4007949; @doi:10.1152/japplphysiol.90546.2008].
-Particle deposition, for example, is relatively low during the first two weeks of a rats' life, high at postnatal day P21 and medium at days P36&ndash;P90 [@doi:10.1021/acsnano.8b01826; @doi:10.1073/pnas.1119339109].
+Particle deposition, for example, is relatively low during the first two weeks of a rats' life, high at postnatal day P21 and medium at days P36--P90 [@doi:10.1021/acsnano.8b01826; @doi:10.1073/pnas.1119339109].
 This correlates well with our results, where we found a significantly larger number of alveoli per acinus volume at days 10 and 21 compared to days 4 and 60 (p-values all better than 5.4e-5, which is the one for day 4 vs. day 21).
 Kreyling et al. [@doi:10.1021/acsnano.8b01826] report maximal gold nanoparticle retention at this time point (see [their figure 1](https://pubs.acs.org/doi/10.1021/acsnano.8b01826#fig1)).
 
@@ -497,7 +493,7 @@ In rats, the alveolar air spaces are large during the first two weeks of life, s
 
 ### Number of acini
 
-Previously, it was shown that the number of acini (e.g. counted acinar entraces) remains constant during postnatal lung development from day 4 to 60 [@doi:10.1152/ajplung.00325.2016], with a mean of 5840 ± 547 acini per lung (in another strain of animals, full lung data available for days 4 and 60).
+Previously, it was shown that the number of acini (e.g. counted acinar entraces) remains constant during postnatal lung development from day 4 to 60 [@doi:10.1152/ajplung.00325.2016], with a mean of 5840 ± 547 acini per lung (in another strain of animals, the data from the whole lungs is available for days 4 and 60).
 Even though we did not aim to assess the number of acini in this manuscript, calculating this number helps to validate our assessment and helps us to collate the data that can be derived from our stereological analysis to prior results.
 
 Based on the acinar and parenchymal volume we calculated the number of acini and were able to verify the previously reported results to lie within our margin of error at days 4 and 60 (Barré et al: 6236 ± 497 acini and 5612 ± 547 acini, respectively).
@@ -510,11 +506,10 @@ This might be due to fusing of several acini to one or simply because we missed 
 
 ### Total alveolar number
 
-In this study, we assessed the number of alveoli per acinus. The alveolar By multiplication of the number of acini by the number of alveoli we estimate a total amount of alveoli per lung of `\SIlist{0.64 +- 0.34; 1.23 +- 0.39; 2.65 +-  0.57; 3.01 +- 0.58}{million\  alveoli}`{=latex} for days 4, 10, 21, & 60, respectively.
-Tschanz et al. estimated these total numbers of alveoli per lung as `\SIlist{0.823 +- 0.01; 3.538 +- 1.26; 14.303 +- 3.08; 19.297 +- 3.06}{million\ alveoli}`{=latex} for days 4, 10, 21, & 60, respectively [@doi:10.1152/japplphysiol.01355.2013], Table 1).
+In this study, we assessed the number of alveoli per acinus. The alveolar By multiplication of the number of acini by the number of alveoli we estimate a total amount of alveoli per lung of 0.64 +- 0.34, 1.23 +- 0.39, 2.65 +- 0.57 and 3.01 +- 0.58 million alveoli for days 4, 10, 21, & 60, respectively.
+Tschanz et al. estimated these total numbers of alveoli per lung as 0.823 +- 0.01, 3.538 +- 1.26, 14.303 +- 3.08 and 19.297 +- 3.06 million alveoli for days 4, 10, 21, & 60, respectively [@doi:10.1152/japplphysiol.01355.2013], Table 1).
 On average, our results are five times smaller but show the same trend when linearly scaled with a factor of 5.04.
-The values from Tschanz et al.
-overlap well with our linearly scaled values, as shown in figure @fig:08.
+The values from Tschanz et al. overlap well with our linearly scaled values, as shown in figure @fig:08.
 
 As shown in a study by Osmanagic et al. [@doi:10.1152/japplphysiol.00736.2010] the total alveolar number shows a large variability between different labs.
 E.g. the reported total number of alveoli in adult C57BL6 mice differs by a factor of approximately 8.
@@ -524,7 +519,7 @@ It seems to be that the total number of alveoli is dependent on unknown small me
 
 However, relative numbers as reported in this study are more reliable.
 This is especially the case when the comparison is done in groups of animals processed in parallel and counted by the same operator.
-We assessed the same lungs as Tschanz et al. [@doi:10.1152/japplphysiol.01355.2013], but based on a very different imaging method and with two different persons performing the stereological assessment.
+We assessed the same lungs as Tschanz et al. [@doi:10.1152/japplphysiol.01355.2013], but performed our assessement based on a very different imaging method and with two different persons performing the stereological assessment at two very different points in time.
 This may explain the relative factor of 5.04 that we found as a difference.
 
 ![Number of alveoli based on data from Tschanz et al. [@doi:10.1152/japplphysiol.01355.2013] together with our linearly scaled data (our data multiplied by 5.04).
@@ -534,8 +529,7 @@ This may explain the relative factor of 5.04 that we found as a difference.
 
 By dividing the alveolar air space by the number of alveoli (both from Table 1 of [@doi:10.1152/japplphysiol.01355.2013]) we can estimate a mean alveolar volume of 5.91 × 10^5^ μm^3^ for day 4, of 2.49 × 10^5^ μm^3^ for day 10, of 1.34 × 10^5^ μm^3^ for day 21, and 2.93 × 10^5^ μm^3^ for day 60.
 On average, our values (calculated by dividing the mean acinar volume by the mean count of alveoli per acinus) are 1.81 times larger than these estimates of individual alveolar volume (our values day 4: 4.98 × 10^5^ μm^3^, day 10: 3.34 × 10^5^ μm^3^, day 21 3.07 × 10^5^ μm^3^ and day 60 8.12 × 10^5^ μm^3^), but scale equally during postnatal lung development.
-Tschanz et al.
-estimated the total alveolar volume without the alveolar ducts.
+Tschanz et al. estimated the total alveolar volume without the alveolar ducts.
 Since we directly estimated the volume fraction of the alveoli per acinus our number is actually expected to be larger.
 
 ### Additional characteristics of the acinus
@@ -577,6 +571,8 @@ Newly formed acini show a large size distribution which is reduced by a factor o
 Most likely the latter leads to more homogeneous ventilation of the lung and an increase of gas-washout which is equal to a decreased in the number of breaths needed for gas-washout.
 
 To our best knowledge, no in-depth characterization of the acinar properties as presented here---i.e. spanning the lung development period---was available up to now.
+Even though our results are not precisely accordant with data calculated from previous studies, they match well, found differences are discussed extensively.
+
 The data presented in this study can contribute to improve computational simulations of pulmonary ventilation and particle deposition.
 
 ## Acknowledgments
