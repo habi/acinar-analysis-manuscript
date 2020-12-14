@@ -65,7 +65,7 @@ Marone
 massless
 MATLAB
 medetomidine
-MEVIS
+MeVis
 MeVisLab
 microarchitecture
 midazolam
@@ -77,7 +77,7 @@ Osmanagic
 Ouanella
 parenchyma
 parenchymal
-PCO
+pco
 Pinzer
 placentalian
 preprint
