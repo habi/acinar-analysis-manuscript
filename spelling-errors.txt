@@ -62,7 +62,7 @@ Kruskal
 libitum
 LuAG
 Marone
-Massless
+massless
 MATLAB
 medetomidine
 MEVIS
@@ -94,7 +94,7 @@ Sébastien
 situ
 Sprague
 STEPanizer
-stereological
+Stereological
 stereologically
 stereology
 subsampled
