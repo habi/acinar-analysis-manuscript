@@ -2,7 +2,7 @@ acinar
 acini
 acinus
 alveolarization
-alveoli
+Alveoli
 alveolus
 Amhrein
 angiogenetic
@@ -62,7 +62,7 @@ Kruskal
 libitum
 LuAG
 Marone
-Massless
+massless
 MATLAB
 medetomidine
 MeVis
@@ -94,7 +94,7 @@ Sébastien
 situ
 Sprague
 STEPanizer
-Stereological
+stereological
 stereologically
 stereology
 subsampled
