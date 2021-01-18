@@ -422,7 +422,6 @@ content/05.discussion.md:97:stereology
 content/05.discussion.md:99:alveoli
 content/05.discussion.md:100:stereological
 content/05.discussion.md:100:stereology
-content/05.discussion.md:106:assessement
 content/05.discussion.md:106:stereological
 content/05.discussion.md:106:Tschanz
 content/05.discussion.md:107:acini

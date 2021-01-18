@@ -1,12 +1,11 @@
 acinar
 acini
 acinus
-Alveolarization
-Alveoli
+alveolarization
+alveoli
 alveolus
 Amhrein
 angiogenetic
-assessement
 BADJ
 Barré
 beamline
@@ -65,7 +64,7 @@ Marone
 massless
 MATLAB
 medetomidine
-MEVIS
+MeVis
 MeVisLab
 microarchitecture
 midazolam
