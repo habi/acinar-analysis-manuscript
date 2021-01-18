@@ -92,13 +92,13 @@
 \maketitle
 
 A preprint of this manuscript is available on \emph{bioRxiv} with the DOI \href{https://doi.org/10.1101/786681}{10.1101/786681} and is under revision in the \href{https://journals.physiology.org/journal/ajplung}{\emph{American Journal of Physiology - Lung Cellular and Molecular Physiology}}.
-The manuscript \href{https://github.com/habi/acinar-analysis-manuscript/compare/d6fc17bd66bdca5cbff30d53e1dbc02d5351609b...b44a610d3ce84a5acd834500445435fcbea823e2}{has been updated} since the first round of review.
+The manuscript \href{https://github.com/habi/acinar-analysis-manuscript/compare/d6fc17bd66bdca5cbff30d53e1dbc02d5351609b...d20ffa7aad63d66cb17d8ab2ec0f577c1f74023a}{has been updated} since the first round of review.
 
 This manuscript
-(\href{https://habi.github.io/acinar-analysis-manuscript/v/b44a610d3ce84a5acd834500445435fcbea823e2/}{permalink})
+(\href{https://habi.github.io/acinar-analysis-manuscript/v/d20ffa7aad63d66cb17d8ab2ec0f577c1f74023a/}{permalink})
 was automatically generated
-from \href{https://github.com/habi/acinar-analysis-manuscript/tree/b44a610d3ce84a5acd834500445435fcbea823e2}{habi/acinar-analysis-manuscript@b44a610}
-on December 22, 2020.
+from \href{https://github.com/habi/acinar-analysis-manuscript/tree/d20ffa7aad63d66cb17d8ab2ec0f577c1f74023a}{habi/acinar-analysis-manuscript@d20ffa7}
+on January 18, 2021.
 
 \hypertarget{authors}{%
 \subsection{Authors}\label{authors}}
@@ -108,7 +108,7 @@ on December 22, 2020.
   \textbf{David Haberthür}
   · \includegraphics{images/orcid.svg}
   \href{https://orcid.org/0000-0003-3388-9187}{0000-0003-3388-9187}
-  · \href{mailto:haberthuer@ana.unibe.ch?subject=Feedback\%20regarding\%20the\%20acinus\%20manuscript\%20(b44a610)}{haberthuer@ana.unibe.ch}
+  · \href{mailto:haberthuer@ana.unibe.ch?subject=Feedback\%20regarding\%20the\%20acinus\%20manuscript\%20(d20ffa7)}{haberthuer@ana.unibe.ch}
   · \includegraphics{images/github.svg}
   \href{https://github.com/habi}{habi}
   · \includegraphics{images/twitter.svg}
@@ -134,7 +134,7 @@ on December 22, 2020.
   \textbf{Johannes C. Schittny}✉
   · \includegraphics{images/orcid.svg}
   \href{https://orcid.org/0000-0003-4025-3961}{0000-0003-4025-3961}
-  · \href{mailto:schittny@ana.unibe.ch?subject=Feedback\%20regarding\%20the\%20acinus\%20manuscript\%20(b44a610)}{schittny@ana.unibe.ch}
+  · \href{mailto:schittny@ana.unibe.ch?subject=Feedback\%20regarding\%20the\%20acinus\%20manuscript\%20(d20ffa7)}{schittny@ana.unibe.ch}
   Institute of Anatomy, University of Bern, Switzerland
 \end{itemize}
 
@@ -163,7 +163,7 @@ This likely leads to more homogeneous ventilation at later stages in lung develo
 Lung development starts with the formation of the two lung buds.
 During the embryonic stage (prenatal days E11--E13 in rats) the major airways and the pleura are formed.
 During the pseudoglandular stage (E13--E18.5) most of the remaining airway generations are formed by branching morphogenesis.
-Only few additional branches are added during the later stages (canalicular (E18.5--E20) and (E20 to postnatal day P4)) (\protect\hyperlink{ref-TsNwin2E}{34}).
+Only few additional branches are added during the later stages (canalicular: E18.5--E20) and saccular: E20 to postnatal day P4) (\protect\hyperlink{ref-TsNwin2E}{34}).
 Epithelial differentiation during the canalicular stage and angiogenetic activation of the capillaries lead to the first functional air-blood barriers in the lung (\protect\hyperlink{ref-ODQCVC23}{33}).
 The saccular stage represents an intermediate stage where branching morphogenesis ceases and the developmental program switches to the phase of alveolarization.
 During alveolarization, 90~\% of the adult gas-exchange area is formed by lifting off new septa from the existing gas-exchange surface (\protect\hyperlink{ref-auNiE56G}{5}, \protect\hyperlink{ref-1AhvLCPky}{19}, \protect\hyperlink{ref-XQLPrPTJ}{32}).
@@ -204,6 +204,7 @@ Historically, single or very few acini were delineated and extracted from manual
 Non-destructive three-dimensional imaging is best suited to acquire data sets that can be used to easily detect, delineate, and study large amounts of single acini.
 This has been shown by Vasilescu et al.~(\protect\hyperlink{ref-C6OaY84D}{48}).
 In their study, they reconstructed 22 mouse acini from tomographic data sets of four 12 weeks old mice (at least postnatal day 84, fully developed lungs) and compared those with scanning electron microscope images of acinar silicone rubber casts.
+Haberthür et al.~(\protect\hyperlink{ref-7YLeeyu}{11}) analyzed the volume, surface area, and number of alveoli of 43 individual acini of three adult rats (day 60) in tomographic datasets obtained by synchrotron radiation based X-ray tomographic microscopy.
 Similarly, Kizhakke Puliyakote et al.~(\protect\hyperlink{ref-RGBeCf8v}{20}) analyzed the volume of 32 mouse acini from six animals, as well as the branching pattern of their internal airways.
 All prior work known to us has analyzed considerably fewer acini than the 268 acini presented here and focuses only on a time point, at which the lungs of the animals are already fully developed while our data spans the postnatal days 4 to 60.
 
@@ -271,7 +272,7 @@ For the present manuscript, we extracted single acini from three-dimensional dat
 Details of this semi-automatic extraction of the rat acini are described by Haberthür et al.~(\protect\hyperlink{ref-7YLeeyu}{11}).
 Individual acini were extracted from the tomographic data with a custom image processing network established in \href{https://www.mevislab.de/}{MeVisLab} (version 2.1, 2010-07-26 release, MeVis Medical Solutions and Fraunhofer MEVIS-Institute for Medical Image Computing, Bremen, Germany).
 To isolate individual acini, we followed the airway tree in the data and manually placed disk-shaped segmentation stoppers at the acinus entrances.
-Thus, acini were selected independently of their size and only based on their location in the airway tree, are not selected based on their size.
+Thus, acini were selected independently of their size and only based on their location in the airway tree.
 The acinus extraction was performed by segmenting the acinus volume with a gray-level threshold-based region growing algorithm with a seed point perpendicular to the manually placed segmentation stopper.
 Each individual acinus was then exported as a single DICOM file for portability.
 For each acinus, its exported DICOM file contained the segmented acinus overlaid with the original background for further analysis.
@@ -533,9 +534,11 @@ To calculate these data we had to use data of two different studies.
 \hypertarget{total-number-of-alveoli-per-lung}{%
 \subsubsection{Total number of alveoli per lung}\label{total-number-of-alveoli-per-lung}}
 
-The total alveolar number for day 4 was found to be 0.64~±~0.34~million~acini, for day 10 1.23~±~0.39~million~acini, for day 21 2.65~±~0.57~million~acini, and for day 60 3.01~±~0.34~million~acini.
+The total alveolar number for day 4 was found to be 0.64~±~0.34~million~alveoli, for day 10 1.23~±~0.39~million~alveoli, for day 21 2.65~±~0.57~million~alveoli, and for day 60 3.01~±~0.34~million~alveoli.
 The total number of acini was estimated by dividing the mean parenchymal volume of the lungs (\protect\hyperlink{ref-wnl86DEM}{46}) by the stereologically estimated acinar volume.
 The number of alveoli for each animal is then calculated by multiplying the average entrance ring count per animal with the estimated number of acini per animal.
+To calculate this data we had to use data from three different studies performed by three different teams using two different strains of animals (i.e.~current data, Tschanz et al.~(\protect\hyperlink{ref-wnl86DEM}{46}), and Barre et al.~(\protect\hyperlink{ref-uFNlWogb}{3})).
+Therefore, we had to accept that error propagation may cause a significant blurring of our results.
 
 \hypertarget{volume-of-individual-alveoli}{%
 \subsubsection{Volume of individual alveoli}\label{volume-of-individual-alveoli}}
@@ -668,6 +671,7 @@ The studied volume in this case is several decimal powers less than what is stud
 However, relative numbers as reported in this study are more reliable.
 This is especially the case when the comparison is done in groups of animals processed in parallel and counted by the same operator.
 We assessed the same lungs as Tschanz et al.~(\protect\hyperlink{ref-wnl86DEM}{46}), but performed our assessement based on a very different imaging method and with two different persons performing the stereological assessment at two very different points in time.
+Furthermore, we used the number of acini as determined by Barre et al.~(\protect\hyperlink{ref-uFNlWogb}{3}) which represents a dataset obtained by a third team and which introduces the effect of error propagation.
 This may explain the relative factor of 5.04 that we found as a difference.
 Even if it was shown that the right lower lobe represents a valid sample for the entire lung (\protect\hyperlink{ref-14OP85b2F}{2}, \protect\hyperlink{ref-I9TmP6IU}{53}), we cannot rule out a contribution to the factor by regional differences in the lung which we can not account for in the present study.
 
@@ -924,7 +928,7 @@ No conﬂicts of interest, financial or otherwise, are declared by the authors.
 53. \textbf{Zeltner TB}, \textbf{Bertacchini M}, \textbf{Messerli A}, \textbf{Burri PH}. Morphometric Estimation of Regional Differences in the Rat Lung. \emph{Experimental Lung Research} 16: 145--158, 2009. doi: \href{https://doi.org/10.3109/01902149009087879}{10.3109/01902149009087879}.
 
 \leavevmode\hypertarget{ref-199ALtdJt}{}%
-54. Replacement, Reduction, Refinement {[}Online{]}. \emph{ALTEX} 19: 73--78, 2002. \url{https://www.altex.org/index.php/altex/article/view/1106} {[}22 Dec. 2020{]}.
+54. Replacement, Reduction, Refinement {[}Online{]}. \emph{ALTEX} 19: 73--78, 2002. \url{https://www.altex.org/index.php/altex/article/view/1106} {[}18 Jan. 2021{]}.
 \end{cslreferences}
 
 \end{document}

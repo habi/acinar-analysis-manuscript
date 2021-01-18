@@ -1,7 +1,7 @@
 acinar
 acini
 acinus
-alveolarization
+Alveolarization
 alveoli
 alveolus
 Amhrein
@@ -62,7 +62,7 @@ Kruskal
 libitum
 LuAG
 Marone
-massless
+Massless
 MATLAB
 medetomidine
 MeVis
@@ -77,7 +77,7 @@ Osmanagic
 Ouanella
 parenchyma
 parenchymal
-PCO
+pco
 Pinzer
 placentalian
 preprint
@@ -94,7 +94,7 @@ Sébastien
 situ
 Sprague
 STEPanizer
-stereological
+Stereological
 stereologically
 stereology
 subsampled
