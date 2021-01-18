@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/habi/acinar-analysis-manuscript/tree/gh-pages) branch hosts the contents of this directory at <https://habi.github.io/acinar-analysis-manuscript/>.
-The permalink for this webpage version is <https://habi.github.io/acinar-analysis-manuscript/v/2d92fe82c37a25398347cedd39e1de9ed0aa58f2/>.
+The permalink for this webpage version is <https://habi.github.io/acinar-analysis-manuscript/v/598924db368c481272956553704a102f6c297cb0/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://habi.github.io/acinar-analysis-manuscript/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`2d92fe82c37a25398347cedd39e1de9ed0aa58f2`](https://github.com/habi/acinar-analysis-manuscript/commit/2d92fe82c37a25398347cedd39e1de9ed0aa58f2).
+[`598924db368c481272956553704a102f6c297cb0`](https://github.com/habi/acinar-analysis-manuscript/commit/598924db368c481272956553704a102f6c297cb0).
