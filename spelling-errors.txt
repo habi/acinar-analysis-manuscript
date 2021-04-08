@@ -1,7 +1,7 @@
 acinar
 acini
 acinus
-alveolarization
+Alveolarization
 alveoli
 alveolus
 Amhrein
@@ -61,8 +61,7 @@ Kruskal
 libitum
 LuAG
 Marone
-Massless
-MATLAB
+massless
 medetomidine
 MeVis
 MeVisLab
@@ -76,9 +75,10 @@ Osmanagic
 Ouanella
 parenchyma
 parenchymal
-pco
+PCO
 Pinzer
 placentalian
+PLOS
 preprint
 pseudoglandular
 Puliyakote
@@ -93,9 +93,10 @@ Sébastien
 situ
 Sprague
 STEPanizer
-Stereological
+stereological
 stereologically
 stereology
+submited
 subsampled
 subsampling
 superset
@@ -106,7 +107,6 @@ Tschanz
 Turnov
 uranyl
 Vasilescu
-ventilatory
 Villigen
 voxel
 Wieland
