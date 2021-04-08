@@ -9,5 +9,5 @@ filters:
 - pandoc-citeproc
 wrap: preserve
 metadata:
-  csl: https://www.zotero.org/styles/ajp-lung-cellular-and-molecular-physiology
+  csl: https://www.zotero.org/styles/plos-one
   link-citations: true
