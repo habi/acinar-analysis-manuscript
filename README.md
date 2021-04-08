@@ -1,20 +1,20 @@
-# Automated scholarly manuscripts on GitHub
+# Pulmonary acini exhibit complex changes during postnatal rat lung development
 
 <!-- usage note: edit the H1 title above to personalize the manuscript -->
 
 [![HTML Manuscript](https://img.shields.io/badge/manuscript-HTML-blue.svg)](https://habi.github.io/acinar-analysis-manuscript/)
 [![PDF Manuscript](https://img.shields.io/badge/manuscript-PDF-blue.svg)](https://habi.github.io/acinar-analysis-manuscript/manuscript.pdf)
 [![GitHub Actions Status](https://github.com/habi/acinar-analysis-manuscript/workflows/Manubot/badge.svg)](https://github.com/habi/acinar-analysis-manuscript/actions)
-[![Travis Build Status](https://travis-ci.com/habi/acinar-analysis-manuscript.svg?branch=master)](https://travis-ci.com/habi/acinar-analysis-manuscript)
 <!-- usage note: delete CI badges above for services not used by your manuscript -->
 
 ## Manuscript description
 
 <!-- usage note: edit this section. -->
 
-This repository is a template manuscript (a.k.a. rootstock).
-Actual manuscript instances will clone this repository (see [`SETUP.md`](SETUP.md)) and replace this paragraph with a description of their manuscript.
+This repository contains the manuscript we wrote about changes in pulmonary acini during lung development.
+The document was originally crafted on [Authorea](https://authorea.com), but we want to have a publicly accessible version here on GitHub (and really like to write in Markdown, thus converted it to a [`manubot`](https://manubot.org)-enabled manuscript.
 
+The code that accompanies the manuscript can be found here: https://github.com/habi/acinar-analysis ([doi:10.5281/zenodo.3338349](https://doi.org/10.5281/zenodo.3338349)).
 ## Manubot
 
 <!-- usage note: do not edit this section -->
