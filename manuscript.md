@@ -10,7 +10,7 @@ bibliography:
 - content/manual-references.bib
 - content/manual-references.json
 date-meta: '2021-06-03'
-header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Pulmonary acini exhibit complex changes during postnatal rat lung development\" />\n<meta name=\"citation_title\" content=\"Pulmonary acini exhibit complex changes during postnatal rat lung development\" />\n<meta property=\"og:title\" content=\"Pulmonary acini exhibit complex changes during postnatal rat lung development\" />\n<meta property=\"twitter:title\" content=\"Pulmonary acini exhibit complex changes during postnatal rat lung development\" />\n<meta name=\"dc.date\" content=\"2021-06-03\" />\n<meta name=\"citation_publication_date\" content=\"2021-06-03\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"David Haberth\xFCr\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Bern, Switzerland\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-3388-9187\" />\n<meta name=\"twitter:creator\" content=\"@habi\" />\n<meta name=\"citation_author\" content=\"Eveline Yao\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Bern, Switzerland\" />\n<meta name=\"citation_author\" content=\"S\xE9bastien F. Barr\xE9\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Bern, Switzerland\" />\n<meta name=\"citation_author\" content=\"Tiziana P. Cremona\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Bern, Switzerland\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-0061-9578\" />\n<meta name=\"citation_author\" content=\"Stefan A. Tschanz\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Bern, Switzerland\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-3880-4437\" />\n<meta name=\"citation_author\" content=\"Johannes C. Schittny\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Bern, Switzerland\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-4025-3961\" />\n<link rel=\"canonical\" href=\"https://habi.github.io/acinar-analysis-manuscript/\" />\n<meta property=\"og:url\" content=\"https://habi.github.io/acinar-analysis-manuscript/\" />\n<meta property=\"twitter:url\" content=\"https://habi.github.io/acinar-analysis-manuscript/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://habi.github.io/acinar-analysis-manuscript/\" />\n<meta name=\"citation_pdf_url\" content=\"https://habi.github.io/acinar-analysis-manuscript/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://habi.github.io/acinar-analysis-manuscript/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://habi.github.io/acinar-analysis-manuscript/v/b3155b672b26f48c7dce535aa34b7854949fc849/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://habi.github.io/acinar-analysis-manuscript/v/b3155b672b26f48c7dce535aa34b7854949fc849/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://habi.github.io/acinar-analysis-manuscript/v/b3155b672b26f48c7dce535aa34b7854949fc849/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
+header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Pulmonary acini exhibit complex changes during postnatal rat lung development\" />\n<meta name=\"citation_title\" content=\"Pulmonary acini exhibit complex changes during postnatal rat lung development\" />\n<meta property=\"og:title\" content=\"Pulmonary acini exhibit complex changes during postnatal rat lung development\" />\n<meta property=\"twitter:title\" content=\"Pulmonary acini exhibit complex changes during postnatal rat lung development\" />\n<meta name=\"dc.date\" content=\"2021-06-03\" />\n<meta name=\"citation_publication_date\" content=\"2021-06-03\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"David Haberth\xFCr\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Bern, Switzerland\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-3388-9187\" />\n<meta name=\"twitter:creator\" content=\"@habi\" />\n<meta name=\"citation_author\" content=\"Eveline Yao\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Bern, Switzerland\" />\n<meta name=\"citation_author\" content=\"S\xE9bastien F. Barr\xE9\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Bern, Switzerland\" />\n<meta name=\"citation_author\" content=\"Tiziana P. Cremona\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Bern, Switzerland\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-0061-9578\" />\n<meta name=\"citation_author\" content=\"Stefan A. Tschanz\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Bern, Switzerland\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-3880-4437\" />\n<meta name=\"citation_author\" content=\"Johannes C. Schittny\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Bern, Switzerland\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-4025-3961\" />\n<link rel=\"canonical\" href=\"https://habi.github.io/acinar-analysis-manuscript/\" />\n<meta property=\"og:url\" content=\"https://habi.github.io/acinar-analysis-manuscript/\" />\n<meta property=\"twitter:url\" content=\"https://habi.github.io/acinar-analysis-manuscript/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://habi.github.io/acinar-analysis-manuscript/\" />\n<meta name=\"citation_pdf_url\" content=\"https://habi.github.io/acinar-analysis-manuscript/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://habi.github.io/acinar-analysis-manuscript/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://habi.github.io/acinar-analysis-manuscript/v/faa233464aaa9be847c35036707b917ec510a8af/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://habi.github.io/acinar-analysis-manuscript/v/faa233464aaa9be847c35036707b917ec510a8af/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://habi.github.io/acinar-analysis-manuscript/v/faa233464aaa9be847c35036707b917ec510a8af/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
 keywords:
 - lung
 - acini
@@ -28,14 +28,14 @@ title: Pulmonary acini exhibit complex changes during postnatal rat lung develop
 
 A preprint of this manuscript is available on *bioRxiv* with the DOI [10.1101/786681](https://doi.org/10.1101/786681).
 It has been submited to [*PLOS ONE*](https://journals.plos.org/plosone/).
-The manuscript [has been updated](https://github.com/habi/acinar-analysis-manuscript/compare/5e778036e316c47b8bac4ce50086b191a7e3707a...b3155b672b26f48c7dce535aa34b7854949fc849) since submission.
+The manuscript [has been updated](https://github.com/habi/acinar-analysis-manuscript/compare/5e778036e316c47b8bac4ce50086b191a7e3707a...faa233464aaa9be847c35036707b917ec510a8af) since submission.
 
 
 <small><em>
 This manuscript
-([permalink](https://habi.github.io/acinar-analysis-manuscript/v/b3155b672b26f48c7dce535aa34b7854949fc849/))
+([permalink](https://habi.github.io/acinar-analysis-manuscript/v/faa233464aaa9be847c35036707b917ec510a8af/))
 was automatically generated
-from [habi/acinar-analysis-manuscript@b3155b6](https://github.com/habi/acinar-analysis-manuscript/tree/b3155b672b26f48c7dce535aa34b7854949fc849)
+from [habi/acinar-analysis-manuscript@faa2334](https://github.com/habi/acinar-analysis-manuscript/tree/faa233464aaa9be847c35036707b917ec510a8af)
 on June 3, 2021.
 </em></small>
 
@@ -46,7 +46,7 @@ on June 3, 2021.
 + **David Haberthür**<sup></sup>
     · ![ORCID icon](images/orcid.svg){.inline_icon}
     [0000-0003-3388-9187](https://orcid.org/0000-0003-3388-9187)
-    · [haberthuer@ana.unibe.ch](mailto:haberthuer@ana.unibe.ch?subject=Feedback\%20regarding\%20the\%20acinus\%20manuscript\%20(b3155b6))
+    · [haberthuer@ana.unibe.ch](mailto:haberthuer@ana.unibe.ch?subject=Feedback\%20regarding\%20the\%20acinus\%20manuscript\%20(faa2334))
     · ![GitHub icon](images/github.svg){.inline_icon}
     [habi](https://github.com/habi)
     · ![Twitter icon](images/twitter.svg){.inline_icon}
@@ -82,7 +82,7 @@ on June 3, 2021.
 + **Johannes C. Schittny**<sup>✉</sup>
     · ![ORCID icon](images/orcid.svg){.inline_icon}
     [0000-0003-4025-3961](https://orcid.org/0000-0003-4025-3961)
-    · [schittny@ana.unibe.ch](mailto:schittny@ana.unibe.ch?subject=Feedback\%20regarding\%20the\%20acinus\%20manuscript\%20(b3155b6))<br>
+    · [schittny@ana.unibe.ch](mailto:schittny@ana.unibe.ch?subject=Feedback\%20regarding\%20the\%20acinus\%20manuscript\%20(faa2334))<br>
   <small>
      Institute of Anatomy, University of Bern, Bern, Switzerland
   </small>
@@ -520,7 +520,7 @@ The values from Tschanz et al. overlap well with our linearly scaled values, as 
 
 As shown in a study by Osmanagic et al. [@doi:10.1152/japplphysiol.00736.2010] the total alveolar number shows a large variability between different labs.
 E.g. the reported total number of alveoli in adult C57BL6 mice differs by a factor of approximately 8.
-All the studies mentioned my Osmanagic et al. were performed in labs well-known for their quality of stereology-based investigations of lung morphology.
+All the studies mentioned by Osmanagic et al. were performed in labs well-known for their quality of stereology-based investigations of lung morphology.
 Therefore, any simple bias or methodical error may not account for the reported differences.
 It seems to be that the total number of alveoli is dependent on unknown small methodical differences and minute differences in how the operator actually does count.
 The seemingly minuscule volume fraction of lung studied (around 1 % or less) in this manuscript is---according to the stereological guidelines [@doi:10.1164/rccm.200809-1522ST]---ample volume to gain mathematically correct results if the stereology is carried out correctly as we have done to the best of our knowledge.
@@ -566,8 +566,8 @@ The proximal regions may even be viewed analogously to a filter capturing the pa
 
 Multi-breath gas-washout is also dependent on the size of the acini.
 Based on computational simulations of nitrogen multi-breath gas-washout it has been shown that small acini washout faster at the beginning and slower at the end of the washout as compared to larger acini [@doi:10.1371/journal.pcbi.1007079].
-Not surprisingly, the distribution of the acinar sizes in terms of their range has also an influence on the gas-washout.
-Furthermore, a clustering versus an even distribution of the locations of acinar similar sizes effects gas-washout.
+Not surprisingly, the distribution of the acinar sizes also  also an influence on the gas-washout.
+Furthermore, a clustering versus an even distribution of the locations of similar acinar sizes also affects gas-washout.
 Therefore, the question where an acinus of which size is located in the lungs has a significant influence on pulmonary ventilation and particle deposition.
 
 The larger distribution of the acinar sizes at day 4 as compared to day 60 let us speculate what this may mean biologically.
@@ -593,6 +593,8 @@ The data presented in this study can contribute to improve computational simulat
 We thank Mohammed Ouanella and Bettina de Breuyn for expert technical assistance.
 Federica Marone and Bernd Pinzer were of paramount importance with their support at the TOMCAT beamline.
 Fluri Wieland was of great help with the statistical analysis.
+
+We thank `manubot` [@doi:10.1371/journal.pcbi.1007128] for providing us with the means to collaboratively write and craft this manuscript.
 
 We are thankful for the support by the Swiss National Science Foundation (grants [310030_153468](http://p3.snf.ch/project-153468) and [310030_175953](http://p3.snf.ch/project-175953)).
 
