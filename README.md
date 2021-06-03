@@ -4,6 +4,7 @@
 
 [![HTML Manuscript](https://img.shields.io/badge/manuscript-HTML-blue.svg)](https://habi.github.io/acinar-analysis-manuscript/)
 [![PDF Manuscript](https://img.shields.io/badge/manuscript-PDF-blue.svg)](https://habi.github.io/acinar-analysis-manuscript/manuscript.pdf)
+[![DOCX Manuscript](https://img.shields.io/badge/manuscript-DOCX-blue.svg)](https://github.com/habi/acinar-analysis-manuscript/blob/output/manuscript.docx)
 [![GitHub Actions Status](https://github.com/habi/acinar-analysis-manuscript/workflows/Manubot/badge.svg)](https://github.com/habi/acinar-analysis-manuscript/actions)
 <!-- usage note: delete CI badges above for services not used by your manuscript -->
 
@@ -15,6 +16,7 @@ This repository contains the manuscript we wrote about changes in pulmonary acin
 The document was originally crafted on [Authorea](https://authorea.com), but we want to have a publicly accessible version here on GitHub (and really like to write in Markdown, thus converted it to a [`manubot`](https://manubot.org)-enabled manuscript.
 
 The code that accompanies the manuscript can be found here: https://github.com/habi/acinar-analysis ([doi:10.5281/zenodo.3338349](https://doi.org/10.5281/zenodo.3338349)).
+
 ## Manubot
 
 <!-- usage note: do not edit this section -->
