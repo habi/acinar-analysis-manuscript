@@ -93,7 +93,7 @@ Sébastien
 situ
 Sprague
 STEPanizer
-stereological
+Stereological
 stereologically
 stereology
 submited

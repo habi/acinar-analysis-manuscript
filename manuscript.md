@@ -9,8 +9,8 @@ author-meta:
 bibliography:
 - content/manual-references.bib
 - content/manual-references.json
-date-meta: '2021-06-03'
-header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Pulmonary acini exhibit complex changes during postnatal rat lung development\" />\n<meta name=\"citation_title\" content=\"Pulmonary acini exhibit complex changes during postnatal rat lung development\" />\n<meta property=\"og:title\" content=\"Pulmonary acini exhibit complex changes during postnatal rat lung development\" />\n<meta property=\"twitter:title\" content=\"Pulmonary acini exhibit complex changes during postnatal rat lung development\" />\n<meta name=\"dc.date\" content=\"2021-06-03\" />\n<meta name=\"citation_publication_date\" content=\"2021-06-03\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"David Haberth\xFCr\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Bern, Switzerland\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-3388-9187\" />\n<meta name=\"twitter:creator\" content=\"@habi\" />\n<meta name=\"citation_author\" content=\"Eveline Yao\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Bern, Switzerland\" />\n<meta name=\"citation_author\" content=\"S\xE9bastien F. Barr\xE9\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Bern, Switzerland\" />\n<meta name=\"citation_author\" content=\"Tiziana P. Cremona\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Bern, Switzerland\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-0061-9578\" />\n<meta name=\"citation_author\" content=\"Stefan A. Tschanz\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Bern, Switzerland\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-3880-4437\" />\n<meta name=\"citation_author\" content=\"Johannes C. Schittny\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Bern, Switzerland\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-4025-3961\" />\n<link rel=\"canonical\" href=\"https://habi.github.io/acinar-analysis-manuscript/\" />\n<meta property=\"og:url\" content=\"https://habi.github.io/acinar-analysis-manuscript/\" />\n<meta property=\"twitter:url\" content=\"https://habi.github.io/acinar-analysis-manuscript/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://habi.github.io/acinar-analysis-manuscript/\" />\n<meta name=\"citation_pdf_url\" content=\"https://habi.github.io/acinar-analysis-manuscript/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://habi.github.io/acinar-analysis-manuscript/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://habi.github.io/acinar-analysis-manuscript/v/faa233464aaa9be847c35036707b917ec510a8af/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://habi.github.io/acinar-analysis-manuscript/v/faa233464aaa9be847c35036707b917ec510a8af/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://habi.github.io/acinar-analysis-manuscript/v/faa233464aaa9be847c35036707b917ec510a8af/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
+date-meta: '2021-06-04'
+header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Pulmonary acini exhibit complex changes during postnatal rat lung development\" />\n<meta name=\"citation_title\" content=\"Pulmonary acini exhibit complex changes during postnatal rat lung development\" />\n<meta property=\"og:title\" content=\"Pulmonary acini exhibit complex changes during postnatal rat lung development\" />\n<meta property=\"twitter:title\" content=\"Pulmonary acini exhibit complex changes during postnatal rat lung development\" />\n<meta name=\"dc.date\" content=\"2021-06-04\" />\n<meta name=\"citation_publication_date\" content=\"2021-06-04\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"David Haberth\xFCr\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Bern, Switzerland\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-3388-9187\" />\n<meta name=\"twitter:creator\" content=\"@habi\" />\n<meta name=\"citation_author\" content=\"Eveline Yao\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Bern, Switzerland\" />\n<meta name=\"citation_author\" content=\"S\xE9bastien F. Barr\xE9\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Bern, Switzerland\" />\n<meta name=\"citation_author\" content=\"Tiziana P. Cremona\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Bern, Switzerland\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-0061-9578\" />\n<meta name=\"citation_author\" content=\"Stefan A. Tschanz\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Bern, Switzerland\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-3880-4437\" />\n<meta name=\"citation_author\" content=\"Johannes C. Schittny\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Bern, Switzerland\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-4025-3961\" />\n<link rel=\"canonical\" href=\"https://habi.github.io/acinar-analysis-manuscript/\" />\n<meta property=\"og:url\" content=\"https://habi.github.io/acinar-analysis-manuscript/\" />\n<meta property=\"twitter:url\" content=\"https://habi.github.io/acinar-analysis-manuscript/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://habi.github.io/acinar-analysis-manuscript/\" />\n<meta name=\"citation_pdf_url\" content=\"https://habi.github.io/acinar-analysis-manuscript/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://habi.github.io/acinar-analysis-manuscript/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://habi.github.io/acinar-analysis-manuscript/v/7424b13151dd7ab8577f9a0021eb0408c29c1df5/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://habi.github.io/acinar-analysis-manuscript/v/7424b13151dd7ab8577f9a0021eb0408c29c1df5/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://habi.github.io/acinar-analysis-manuscript/v/7424b13151dd7ab8577f9a0021eb0408c29c1df5/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
 keywords:
 - lung
 - acini
@@ -28,15 +28,15 @@ title: Pulmonary acini exhibit complex changes during postnatal rat lung develop
 
 A preprint of this manuscript is available on *bioRxiv* with the DOI [10.1101/786681](https://doi.org/10.1101/786681).
 It has been submited to [*PLOS ONE*](https://journals.plos.org/plosone/).
-The manuscript [has been updated](https://github.com/habi/acinar-analysis-manuscript/compare/5e778036e316c47b8bac4ce50086b191a7e3707a...faa233464aaa9be847c35036707b917ec510a8af) since submission.
+The manuscript [has been updated](https://github.com/habi/acinar-analysis-manuscript/compare/5e778036e316c47b8bac4ce50086b191a7e3707a...7424b13151dd7ab8577f9a0021eb0408c29c1df5) since submission.
 
 
 <small><em>
 This manuscript
-([permalink](https://habi.github.io/acinar-analysis-manuscript/v/faa233464aaa9be847c35036707b917ec510a8af/))
+([permalink](https://habi.github.io/acinar-analysis-manuscript/v/7424b13151dd7ab8577f9a0021eb0408c29c1df5/))
 was automatically generated
-from [habi/acinar-analysis-manuscript@faa2334](https://github.com/habi/acinar-analysis-manuscript/tree/faa233464aaa9be847c35036707b917ec510a8af)
-on June 3, 2021.
+from [habi/acinar-analysis-manuscript@7424b13](https://github.com/habi/acinar-analysis-manuscript/tree/7424b13151dd7ab8577f9a0021eb0408c29c1df5)
+on June 4, 2021.
 </em></small>
 
 ## Authors
@@ -46,7 +46,7 @@ on June 3, 2021.
 + **David Haberthür**<sup></sup>
     · ![ORCID icon](images/orcid.svg){.inline_icon}
     [0000-0003-3388-9187](https://orcid.org/0000-0003-3388-9187)
-    · [haberthuer@ana.unibe.ch](mailto:haberthuer@ana.unibe.ch?subject=Feedback\%20regarding\%20the\%20acinus\%20manuscript\%20(faa2334))
+    · [haberthuer@ana.unibe.ch](mailto:haberthuer@ana.unibe.ch?subject=Feedback\%20regarding\%20the\%20acinus\%20manuscript\%20(7424b13))
     · ![GitHub icon](images/github.svg){.inline_icon}
     [habi](https://github.com/habi)
     · ![Twitter icon](images/twitter.svg){.inline_icon}
@@ -82,7 +82,7 @@ on June 3, 2021.
 + **Johannes C. Schittny**<sup>✉</sup>
     · ![ORCID icon](images/orcid.svg){.inline_icon}
     [0000-0003-4025-3961](https://orcid.org/0000-0003-4025-3961)
-    · [schittny@ana.unibe.ch](mailto:schittny@ana.unibe.ch?subject=Feedback\%20regarding\%20the\%20acinus\%20manuscript\%20(faa2334))<br>
+    · [schittny@ana.unibe.ch](mailto:schittny@ana.unibe.ch?subject=Feedback\%20regarding\%20the\%20acinus\%20manuscript\%20(7424b13))<br>
   <small>
      Institute of Anatomy, University of Bern, Bern, Switzerland
   </small>
@@ -311,13 +311,14 @@ Table: Detailed alveolar numbers for each animal. {#tbl:counts}
 
 ![Distribution of the number of alveoli per acinus (entrance ring count per acinus) for each animal.
   Left: linear scale, right: logarithmic scale.
-  The entrance ring counts per day are all significantly different (all p-values better than 1.9e-5, which is the one between days 4 and 10).](images/fig02.png){#fig:02}
+  The entrance ring counts per day are all significantly different (all p-values smaller than 1.9e-5, which is the one between days 4 and 10).](images/fig02.png){#fig:02}
 
-The alveolar number shows highly significant differences Šidák-corrected p-value \< 0.00167 [@doi:10.1080/01621459.1967.10482935]) between all possible combination of days.
-All possible combinations of entrance ring counts per day are significantly different (all p-values are better than p=1.9e-5, which is the p-value of the difference between days 4 and 10).
+The alveolar number shows highly significant differences (Šidák-corrected p-value smaller than 0.00167 [@doi:10.1080/01621459.1967.10482935]) between all possible combination of days.
+All possible combinations of entrance ring counts per day are significantly different (all p-values are smaller than p=1.9e-5, which is the p-value of the difference between days 4 and 10).
 The entrance ring counts for all animals are independent (p=1.6e-34).
 
 ### Acinus volume
+
 The stereological assessment resulted in a mean acinar volume of 0.03 ± 0.04 mm^3^ for the 125 acini at day 4.
 For the 58 acini at day 10 we get a volume of 0.04 ± 0.05 mm^3^.
 For the 42 acini at day 21 a volume of 0.10 ± 0.09 mm^3^ and for the 43 acini at day 60 a volume of 0.74 ± 0.37 mm^3^.
@@ -348,10 +349,10 @@ At day 60, we saw an increase of 3.94 times (from 0.33 μl--1.3 μl, N=9).
 
 ![Distribution of the acinar volumes for each animal.
   Left: linear scale, right: logarithmic scale.
-  The acinar volumes are all significantly different (all p-values better than 4.5e-6, which is the one between days 10 and 21) for each combination of days except between days 4 and 10 (p=0.08).](images/fig03.png){#fig:03}
+  The acinar volumes are all significantly different (all p-values smaller than 4.5e-6, which is the one between days 10 and 21) for each combination of days except between days 4 and 10 (p=0.08).](images/fig03.png){#fig:03}
 
 The acinar volumes show highly significant differences between all possible combinations of days except between days 4 and 10 (p=0.08).
-All other p-values are better than p=4.5e-6, which is the p-value for the difference between days 10 and 21.
+All other p-values are smaller than 4.5e-6, which is the p-value for the difference between days 10 and 21.
 The statistical analysis is equal to what is briefly described for the entrance ring count above.
 The acinar volumes for animals 21E and all animals of day 60 are non-normally distributed, but all acinar volumes per animal are independent (p=5e-29).
 
@@ -394,11 +395,11 @@ Table: Details of alveolar density (number per mm^3^) per acinus volume for each
 
 ![Number of alveoli per acinus volume.
   Left: linear scale, right: logarithmic scale.
-  The number of alveoli per acinus volume are all significantly different (all p-values are better than 5e-5, which is the one between days 4 and 21) for each combination of days except between days 10 and 21 (p=0.7).](images/fig05.png){#fig:05}
+  The number of alveoli per acinus volume are all significantly different (all p-values are smaller than 5e-5, which is the one between days 4 and 21) for each combination of days except between days 10 and 21 (p=0.7).](images/fig05.png){#fig:05}
 
 The counts per volume, which correspond to the number of alveoli per acinus volume are one of several measure for influencing the complexity of the single acini.
 The number of alveoli per acinus show highly significant differences between all possible combinations of days except between days 10 and 21 (p=0.7).
-All other days have a p-value better than p=5e-5, this being the one between days 4 and 21.
+All other days have a p-value smaller than 5e-5, this being the one between days 4 and 21.
 The statistical analysis is equal to what is briefly described for the entrance ring count above.
 The counts per volume for all animals except 04A are non-normally distributed, but all are independent (p=2.9e-21).
 
@@ -441,7 +442,7 @@ A first analysis of regional difference shows similar results as mentioned above
 
 ### Acinus volumes
 
-The mean acinar volume significantly increases during lung development from postnatal days 10 to 60 with all p-values better than 4.5e-6.
+The mean acinar volume significantly increases during lung development from postnatal days 10 to 60 with all p-values smaller than 4.5e-6.
 No significant difference was observed between postnatal days 4 and 10 (1.2× increase, p=0.08).
 A large part of the acinus volume increase happens after day 21 (compare figure @fig:03), which is consistent with previous literature [@doi:10.1152/japplphysiol.01355.2013; @doi:10.1002/ar.1091780405].
 
@@ -488,7 +489,7 @@ However, the relative numbers obtained in one study match the ones of other stud
 
 The volume and shape of the alveoli, alveolar ducts, and the acini are critical parameters for ventilation and particle deposition [@doi:10.1007/s12650-010-0043-0; @doi:10.1115/1.4007949; @doi:10.1152/japplphysiol.90546.2008].
 Particle deposition, for example, is relatively low during the first two weeks of a rats' life, high at postnatal day P21 and medium at days P36--P90 [@doi:10.1021/acsnano.8b01826; @doi:10.1073/pnas.1119339109].
-This correlates well with our results, where we found a significantly larger number of alveoli per acinus volume at days 10 and 21 compared to days 4 and 60 (p-values all better than 5.4e-5, which is the one for day 4 vs. day 21).
+This correlates well with our results, where we found a significantly larger number of alveoli per acinus volume at days 10 and 21 compared to days 4 and 60 (all p-values are smaller than 5.4e-5, which is the p-value found between day 4 and day 21).
 Kreyling et al. [@doi:10.1021/acsnano.8b01826] report maximal gold nanoparticle retention at this time point (see [their figure 1](https://pubs.acs.org/doi/10.1021/acsnano.8b01826#fig1)).
 
 Tschanz et al. [@doi:10.1152/japplphysiol.01355.2013] stereologically estimated the mean total acinar volume as the sum of ductal and alveolar air spaces.
