@@ -61,9 +61,9 @@ Kruskal
 libitum
 LuAG
 Marone
-Massless
+massless
 medetomidine
-MEVIS
+MeVis
 MeVisLab
 microarchitecture
 midazolam
@@ -94,7 +94,7 @@ Sébastien
 situ
 Sprague
 STEPanizer
-stereological
+Stereological
 stereologically
 stereology
 submited
