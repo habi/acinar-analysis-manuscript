@@ -1,6 +1,6 @@
 acinar
 acini
-Acinus
+acinus
 alveolarization
 alveoli
 alveolus
@@ -61,9 +61,9 @@ Kruskal
 libitum
 LuAG
 Marone
-massless
+Massless
 medetomidine
-MEVIS
+MeVis
 MeVisLab
 microarchitecture
 midazolam
