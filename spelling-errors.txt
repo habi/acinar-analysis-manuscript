@@ -76,7 +76,7 @@ Ouanella
 parenchyma
 parenchymal
 partivle
-PCO
+pco
 Pinzer
 placentalian
 PLOS
