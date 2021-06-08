@@ -94,6 +94,8 @@ content/02.introduction.md:61:acini
 content/02.introduction.md:62:acini
 content/02.introduction.md:62:alveoli
 content/02.introduction.md:64:acini
+content/02.introduction.md:64:acini
+content/02.introduction.md:64:partivle
 content/03.materials.md:4:Haberthür
 content/03.materials.md:4:superset
 content/03.materials.md:5:alveoli
