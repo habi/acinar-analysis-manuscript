@@ -63,7 +63,7 @@ LuAG
 Marone
 Massless
 medetomidine
-MeVis
+MEVIS
 MeVisLab
 microarchitecture
 midazolam
@@ -76,7 +76,7 @@ Ouanella
 parenchyma
 parenchymal
 partivle
-pco
+PCO
 Pinzer
 placentalian
 PLOS
