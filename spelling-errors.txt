@@ -61,9 +61,9 @@ Kruskal
 libitum
 LuAG
 Marone
-massless
+Massless
 medetomidine
-MeVis
+MEVIS
 MeVisLab
 microarchitecture
 midazolam
@@ -76,7 +76,7 @@ Ouanella
 parenchyma
 parenchymal
 partivle
-PCO
+pco
 Pinzer
 placentalian
 PLOS
