@@ -1,4 +1,4 @@
-acinar
+Acinar
 acini
 acinus
 Alveolarization
@@ -8,6 +8,7 @@ Amhrein
 angiogenetic
 BADJ
 Barré
+Barrè
 beamline
 beamtime
 Bernd
@@ -61,7 +62,7 @@ Kruskal
 libitum
 LuAG
 Marone
-Massless
+massless
 medetomidine
 MeVis
 MeVisLab

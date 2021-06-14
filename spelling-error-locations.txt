@@ -390,6 +390,7 @@ content/05.discussion.md:74:acini
 content/05.discussion.md:76:acinar
 content/05.discussion.md:76:acini
 content/05.discussion.md:76:acini
+content/05.discussion.md:76:Barrè
 content/05.discussion.md:76:entraces
 content/05.discussion.md:77:acini
 content/05.discussion.md:77:stereological
@@ -455,7 +456,7 @@ content/05.discussion.md:130:massless
 content/05.discussion.md:132:acini
 content/05.discussion.md:135:acinar
 content/05.discussion.md:135:acini
-content/05.discussion.md:136:Massless
+content/05.discussion.md:136:massless
 content/05.discussion.md:137:acini
 content/05.discussion.md:137:acini
 content/05.discussion.md:138:acini
