@@ -408,6 +408,7 @@ content/05.discussion.md:81:datasets
 content/05.discussion.md:83:acini
 content/05.discussion.md:84:acini
 content/05.discussion.md:84:parenchymal
+content/05.discussion.md:87:alveoli
 content/05.discussion.md:89:acinus
 content/05.discussion.md:89:alveoli
 content/05.discussion.md:90:acini
