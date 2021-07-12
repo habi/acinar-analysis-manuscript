@@ -213,7 +213,7 @@ content/04.results.md:15:acini
 content/04.results.md:16:acinus
 content/04.results.md:16:dataset
 content/04.results.md:18:stereological
-content/04.results.md:24:acini
+content/04.results.md:20:acini
 content/04.results.md:26:acinus
 content/04.results.md:26:Alveoli
 content/04.results.md:28:acini
