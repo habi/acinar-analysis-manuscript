@@ -76,7 +76,7 @@ Osmanagic
 Ouanella
 parenchyma
 parenchymal
-pco
+PCO
 Pinzer
 placentalian
 PLOS
@@ -94,7 +94,7 @@ Sébastien
 situ
 Sprague
 STEPanizer
-Stereological
+stereological
 stereologically
 stereology
 submited
