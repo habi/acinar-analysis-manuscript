@@ -95,6 +95,8 @@ content/02.introduction.md:64:acini
 content/02.introduction.md:64:alveoli
 content/02.introduction.md:66:acinar
 content/02.introduction.md:66:acini
+content/02.introduction.md:68:acinar
+content/02.introduction.md:68:acinar
 content/03.materials.md:4:Haberthür
 content/03.materials.md:4:superset
 content/03.materials.md:5:alveoli
