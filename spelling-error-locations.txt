@@ -297,6 +297,7 @@ content/04.results.md:154:parenchymal
 content/04.results.md:154:stereologically
 content/04.results.md:155:acini
 content/04.results.md:155:alveoli
+content/04.results.md:156:Barré
 content/04.results.md:156:Tschanz
 content/04.results.md:159:alveoli
 content/04.results.md:161:acinar
@@ -364,12 +365,14 @@ content/05.discussion.md:47:stereology
 content/05.discussion.md:53:acinar
 content/05.discussion.md:54:acinar
 content/05.discussion.md:54:acini
+content/05.discussion.md:54:Barré
 content/05.discussion.md:54:parenchymal
 content/05.discussion.md:54:Tschanz
 content/05.discussion.md:55:acini
 content/05.discussion.md:55:Cavalieri
 content/05.discussion.md:58:acini
 content/05.discussion.md:59:acini
+content/05.discussion.md:59:Barré
 content/05.discussion.md:59:stereological
 content/05.discussion.md:59:Tschanz
 content/05.discussion.md:61:acinus
@@ -393,8 +396,7 @@ content/05.discussion.md:74:acini
 content/05.discussion.md:76:acinar
 content/05.discussion.md:76:acini
 content/05.discussion.md:76:acini
-content/05.discussion.md:76:Barrè
-content/05.discussion.md:76:entraces
+content/05.discussion.md:76:Barré
 content/05.discussion.md:77:acini
 content/05.discussion.md:77:stereological
 content/05.discussion.md:79:acinar
@@ -410,6 +412,7 @@ content/05.discussion.md:81:datasets
 content/05.discussion.md:83:acini
 content/05.discussion.md:84:acini
 content/05.discussion.md:84:parenchymal
+content/05.discussion.md:85:Barré
 content/05.discussion.md:87:alveoli
 content/05.discussion.md:89:acinus
 content/05.discussion.md:89:alveoli
@@ -431,6 +434,7 @@ content/05.discussion.md:100:stereology
 content/05.discussion.md:106:stereological
 content/05.discussion.md:106:Tschanz
 content/05.discussion.md:107:acini
+content/05.discussion.md:107:Barré
 content/05.discussion.md:107:dataset
 content/05.discussion.md:111:alveoli
 content/05.discussion.md:111:Tschanz

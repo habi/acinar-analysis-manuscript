@@ -1,4 +1,4 @@
-acinar
+Acinar
 acini
 acinus
 alveolarization
@@ -8,7 +8,6 @@ Amhrein
 angiogenetic
 BADJ
 Barré
-Barrè
 beamline
 beamtime
 Bernd
@@ -32,7 +31,6 @@ DICOM
 dimensionally
 disector
 ductal
-entraces
 epithelia
 Eveline
 exsanguination
@@ -76,7 +74,7 @@ Osmanagic
 Ouanella
 parenchyma
 parenchymal
-pco
+PCO
 Pinzer
 placentalian
 PLOS
