@@ -1,7 +1,7 @@
-acinar
+Acinar
 acini
 acinus
-alveolarization
+Alveolarization
 alveoli
 alveolus
 Amrhein
@@ -74,7 +74,7 @@ Osmanagic
 Ouanella
 parenchyma
 parenchymal
-pco
+PCO
 Pinzer
 placentalian
 PLOS
@@ -92,7 +92,7 @@ Sébastien
 situ
 Sprague
 STEPanizer
-Stereological
+stereological
 stereologically
 stereology
 subsampled
