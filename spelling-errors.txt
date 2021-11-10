@@ -1,7 +1,7 @@
 Acinar
 acini
 acinus
-Alveolarization
+alveolarization
 alveoli
 alveolus
 Amrhein
@@ -12,7 +12,6 @@ beamline
 beamtime
 Bernd
 Bettina
-bioRxiv
 biphasic
 Breuyn
 bronchioalveolar
@@ -62,7 +61,7 @@ LuAG
 Marone
 massless
 medetomidine
-MEVIS
+MeVis
 MeVisLab
 microarchitecture
 midazolam
@@ -74,11 +73,10 @@ Osmanagic
 Ouanella
 parenchyma
 parenchymal
-PCO
+pco
 Pinzer
 placentalian
 PLOS
-preprint
 pseudoglandular
 Puliyakote
 quartile
