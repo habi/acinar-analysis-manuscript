@@ -1,7 +1,7 @@
-Acinar
+acinar
 acini
 acinus
-alveolarization
+Alveolarization
 alveoli
 alveolus
 Amrhein
@@ -61,7 +61,7 @@ LuAG
 Marone
 massless
 medetomidine
-MeVis
+MEVIS
 MeVisLab
 microarchitecture
 midazolam
@@ -73,7 +73,7 @@ Osmanagic
 Ouanella
 parenchyma
 parenchymal
-pco
+PCO
 Pinzer
 placentalian
 PLOS
@@ -90,7 +90,7 @@ Sébastien
 situ
 Sprague
 STEPanizer
-stereological
+Stereological
 stereologically
 stereology
 subsampled
